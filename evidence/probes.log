@@ -1,0 +1,116 @@
+2026-11-13T06:39:33Z push rc=1 sha=df865848e908ea861b648ff74940495b1f8e0c26 subject=chore(release): bump and pin 1.0.1 [release-writer]
+  | remote: error: GH013: Repository rule violations found for refs/heads/main.        
+  | remote: Review all repository rules at https://github.com/openova-io/north-star-merge-queue-lab/rules?ref=refs%2Fheads%2Fmain        
+  | remote: 
+  | remote: - Changes must be made through the merge queue        
+  | remote: 
+  | remote: - 4 of 4 required status checks are expected.        
+  | remote: 
+  | remote: - Changes must be made through a pull request.        
+  | remote: 
+  | To https://github.com/openova-io/north-star-merge-queue-lab.git
+  |  ! [remote rejected] HEAD -> main (push declined due to repository rule violations)
+  | error: failed to push some refs to 'https://github.com/openova-io/north-star-merge-queue-lab.git'
+2026-11-13T06:39:33Z retry 1 after a refused push
+2026-11-13T06:39:35Z push rc=1 sha=bff1b4cbb96d1cf8a936df6cfd6fc31d515ea497 subject=chore(release): bump and pin 1.0.1 [release-writer]
+  | remote: error: GH013: Repository rule violations found for refs/heads/main.        
+  | remote: Review all repository rules at https://github.com/openova-io/north-star-merge-queue-lab/rules?ref=refs%2Fheads%2Fmain        
+  | remote: 
+  | remote: - Changes must be made through the merge queue        
+  | remote: 
+  | remote: - 4 of 4 required status checks are expected.        
+  | remote: 
+  | remote: - Changes must be made through a pull request.        
+  | remote: 
+  | To https://github.com/openova-io/north-star-merge-queue-lab.git
+  |  ! [remote rejected] HEAD -> main (push declined due to repository rule violations)
+  | error: failed to push some refs to 'https://github.com/openova-io/north-star-merge-queue-lab.git'
+2026-11-13T06:39:35Z retry 2 after a refused push
+2026-11-13T06:39:38Z push rc=1 sha=d4d779a1f6cd10ce246cf3e8c51f1604b8ee2dbe subject=chore(release): bump and pin 1.0.1 [release-writer]
+  | remote: error: GH013: Repository rule violations found for refs/heads/main.        
+  | remote: Review all repository rules at https://github.com/openova-io/north-star-merge-queue-lab/rules?ref=refs%2Fheads%2Fmain        
+  | remote: 
+  | remote: - Changes must be made through the merge queue        
+  | remote: 
+  | remote: - 4 of 4 required status checks are expected.        
+  | remote: 
+  | remote: - Changes must be made through a pull request.        
+  | remote: 
+  | To https://github.com/openova-io/north-star-merge-queue-lab.git
+  |  ! [remote rejected] HEAD -> main (push declined due to repository rule violations)
+  | error: failed to push some refs to 'https://github.com/openova-io/north-star-merge-queue-lab.git'
+remote: error: GH013: Repository rule violations found for refs/heads/rc/probe.        
+remote: Review all repository rules at https://github.com/openova-io/north-star-merge-queue-lab/rules?ref=refs%2Fheads%2Frc%2Fprobe        
+remote: 
+remote: - Cannot create ref due to creations being restricted.        
+remote: 
+To https://github.com/openova-io/north-star-merge-queue-lab.git
+ ! [remote rejected] HEAD -> rc/probe (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/openova-io/north-star-merge-queue-lab.git'
+== P4 user push, bypass admin role, mode pull_request
+2026-11-13T06:44:40Z push rc=1 sha=03b10061351a0f176ffb77106f21b720a47f5d9c subject=chore(release): bump and pin 1.0.1 [release-writer]
+  | remote: error: GH013: Repository rule violations found for refs/heads/main.        
+  | remote: Review all repository rules at https://github.com/openova-io/north-star-merge-queue-lab/rules?ref=refs%2Fheads%2Fmain        
+  | remote: 
+  | remote: - Changes must be made through the merge queue        
+  | remote: 
+  | remote: - 4 of 4 required status checks are expected.        
+  | remote: 
+  | remote: - Changes must be made through a pull request.        
+  | remote: 
+  | To https://github.com/openova-io/north-star-merge-queue-lab.git
+  |  ! [remote rejected] HEAD -> main (push declined due to repository rule violations)
+  | error: failed to push some refs to 'https://github.com/openova-io/north-star-merge-queue-lab.git'
+2026-11-13T06:44:40Z retry 1 after a refused push
+2026-11-13T06:44:43Z push rc=1 sha=c431672d6243aeaac4935ddb0c6531e36c49f9e8 subject=chore(release): bump and pin 1.0.1 [release-writer]
+  | remote: error: GH013: Repository rule violations found for refs/heads/main.        
+  | remote: Review all repository rules at https://github.com/openova-io/north-star-merge-queue-lab/rules?ref=refs%2Fheads%2Fmain        
+  | remote: 
+  | remote: - Changes must be made through the merge queue        
+  | remote: 
+  | remote: - 4 of 4 required status checks are expected.        
+  | remote: 
+  | remote: - Changes must be made through a pull request.        
+  | remote: 
+  | To https://github.com/openova-io/north-star-merge-queue-lab.git
+  |  ! [remote rejected] HEAD -> main (push declined due to repository rule violations)
+  | error: failed to push some refs to 'https://github.com/openova-io/north-star-merge-queue-lab.git'
+2026-11-13T06:44:43Z retry 2 after a refused push
+2026-11-13T06:44:45Z push rc=1 sha=3bb0ea054dec0297fe1bb9cfc786725e109e3ef0 subject=chore(release): bump and pin 1.0.1 [release-writer]
+  | remote: error: GH013: Repository rule violations found for refs/heads/main.        
+  | remote: Review all repository rules at https://github.com/openova-io/north-star-merge-queue-lab/rules?ref=refs%2Fheads%2Fmain        
+  | remote: 
+  | remote: - Changes must be made through the merge queue        
+  | remote: 
+  | remote: - 4 of 4 required status checks are expected.        
+  | remote: 
+  | remote: - Changes must be made through a pull request.        
+  | remote: 
+  | To https://github.com/openova-io/north-star-merge-queue-lab.git
+  |  ! [remote rejected] HEAD -> main (push declined due to repository rule violations)
+  | error: failed to push some refs to 'https://github.com/openova-io/north-star-merge-queue-lab.git'
+2026-11-13T06:44:45Z retry 3 after a refused push
+== P5 user push, bypass admin role, mode always
+2026-11-13T06:44:57Z push rc=0 sha=7359e322136aec9e7fd9d8c41a9f98dd5f2d6751 subject=chore(release): bump and pin 1.0.1 [release-writer]
+  | remote: Bypassed rule violations for refs/heads/main:        
+  | remote: 
+  | remote: - Changes must be made through the merge queue        
+  | remote: 
+  | remote: - 4 of 4 required status checks are expected.        
+  | remote: 
+  | remote: - Changes must be made through a pull request.        
+  | remote: 
+  | To https://github.com/openova-io/north-star-merge-queue-lab.git
+  |    d5ff3a9..7359e32  HEAD -> main
+== P6 user push rc/probe, rc bypass admin always
+remote: Bypassed rule violations for refs/heads/rc/probe:        
+remote: 
+remote: - Cannot create ref due to creations being restricted.        
+remote: 
+remote: 
+remote: Create a pull request for 'rc/probe' on GitHub by visiting:        
+remote:      https://github.com/openova-io/north-star-merge-queue-lab/pull/new/rc/probe        
+remote: 
+To https://github.com/openova-io/north-star-merge-queue-lab.git
+ * [new branch]      HEAD -> rc/probe
+== B1 user push one commit mid-flight

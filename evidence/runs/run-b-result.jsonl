@@ -1,0 +1,7 @@
+{"pr": 7, "title": "lab: b-1", "added": 1, "removed": [["2026-11-13T07:07:28Z", "merged"]], "groups_built": 2, "queue_seconds": 339, "merge_commit": "e615531fb4e334e35b54c0a7e7555782f41ea3d2"}
+{"pr": 8, "title": "lab: b-2", "added": 1, "removed": [["2026-11-13T07:07:28Z", "merged"]], "groups_built": 2, "queue_seconds": 336, "merge_commit": "505d71a3c6611deb6e699e1ee815477ab30bed3e"}
+{"pr": 9, "title": "lab: b-3", "added": 1, "removed": [["2026-11-13T07:07:28Z", "merged"]], "groups_built": 2, "queue_seconds": 330, "merge_commit": "b85557d4dfa3a4337ecacf35951b35f416c7f0d3"}
+{"pr": 10, "title": "lab: b-4", "added": 1, "removed": [["2026-11-13T07:07:28Z", "merged"]], "groups_built": 2, "queue_seconds": 328, "merge_commit": "d67b1295e04691d4ba4e7c2b944f22e863ca8bed"}
+{"pr": 11, "title": "lab: b-5", "added": 1, "removed": [["2026-11-13T07:07:28Z", "merged"]], "groups_built": 2, "queue_seconds": 326, "merge_commit": "ca13eded99d430c6919a7c55e69b71276a325cda"}
+{"pr": 12, "title": "lab: b-6", "added": 1, "removed": [["2026-11-13T07:11:03Z", "merged"]], "groups_built": 1, "queue_seconds": 539, "merge_commit": "c9b2c467536e4d6b84f5e59986f50fedc272eea8"}
+{"merged": 6, "of": 6, "median_seconds": 333.0, "min_seconds": 326, "max_seconds": 539, "removals": 6, "groups_built": 11}

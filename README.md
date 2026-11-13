@@ -21,4 +21,8 @@ queue?
 | `scripts/open-prs.sh` | Opens the small lab pull requests of one run. |
 
 The rulesets on `main` and `rc/**` are set through the REST API. The results
-are in `evidence/` once the run ends.
+are in `evidence/RESULTS.md`; the raw logs are next to it.
+
+`scripts/enqueue.sh`, `scripts/stagger-enqueue.sh`, `scripts/api-prs.sh`,
+`scripts/window-pr.sh`, `scripts/analyze.py` and `scripts/collect-runs.py`
+drive the runs and read the results.

@@ -45,6 +45,15 @@ query($o:String!,$n:String!,$a:String!,$b:String!){ repository(owner:$o,name:$n)
 """
 
 
+def append(path, obj):
+    # The host disk can be full for a moment; GitHub keeps the authoritative record.
+    try:
+        with open(path, "a") as f:
+            f.write(json.dumps(obj) + "\n")
+    except OSError:
+        pass
+
+
 def now():
     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
@@ -62,9 +71,8 @@ def post(sha, context, state, desc, kind, ref):
         ["gh", "api", "-X", "POST", f"/repos/{repo}/statuses/{sha}", "-f", f"state={state}",
          "-f", f"context={context}", "-f", f"description={desc}"],
         capture_output=True, text=True, timeout=30).returncode
-    with open(stat_out, "a") as f:
-        f.write(json.dumps({"t": now(), "sha": sha, "kind": kind, "ref": ref,
-                            "context": context, "state": state, "desc": desc, "rc": rc}) + "\n")
+    append(stat_out, {"t": now(), "sha": sha, "kind": kind, "ref": ref,
+                      "context": context, "state": state, "desc": desc, "rc": rc})
 
 
 def pin_state(tree_sha):
@@ -83,8 +91,7 @@ while not os.path.exists(stop):
     try:
         r = gql(Q, o=owner, n=name)
     except Exception as exc:
-        with open(snap_out, "a") as f:
-            f.write(json.dumps({"t": now(), "error": str(exc)[:200]}) + "\n")
+        append(snap_out, {"t": now(), "error": str(exc)[:200]})
         time.sleep(3)
         continue
     entries = r["mergeQueue"]["entries"]["nodes"] if r["mergeQueue"] else []
@@ -94,8 +101,7 @@ while not os.path.exists(stop):
                        "base": (e["baseCommit"] or {}).get("oid"), "enqueued": e["enqueuedAt"]}
                       for e in entries]}
     if snap != last_snap:
-        with open(snap_out, "a") as f:
-            f.write(json.dumps({"t": now(), **snap}) + "\n")
+        append(snap_out, {"t": now(), **snap})
         last_snap = snap
     t = time.time()
     targets = []
@@ -121,9 +127,8 @@ while not os.path.exists(stop):
     while events and events[0][0] <= time.time():
         _, _, sha, ctx, kind, ref, tree = heapq.heappop(events)
         if kind == "group" and sha not in live_groups:
-            with open(stat_out, "a") as f:
-                f.write(json.dumps({"t": now(), "sha": sha, "kind": kind, "ref": ref, "context": ctx,
-                                    "state": "skipped", "desc": "group no longer in the queue"}) + "\n")
+            append(stat_out, {"t": now(), "sha": sha, "kind": kind, "ref": ref, "context": ctx,
+                              "state": "skipped", "desc": "group no longer in the queue"})
             continue
         if ctx == "pin-match":
             state, desc = pin_state(tree)

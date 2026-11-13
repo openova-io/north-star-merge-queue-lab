@@ -1,1 +1,1 @@
-evidence/ holds the raw logs once the run ends.
+Raw logs and the summary of the experiment. Start with RESULTS.md.

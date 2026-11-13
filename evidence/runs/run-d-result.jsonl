@@ -1,0 +1,10 @@
+{"pr": 19, "title": "lab: d-1", "added": 1, "removed": [["2026-11-13T07:29:07Z", "merged"]], "groups_built": 1, "queue_seconds": 236, "merge_commit": "41f40984bb996174b708ccd2f18e8adfb8bedbc7"}
+{"pr": 20, "title": "lab: d-2", "added": 1, "removed": [["2026-11-13T07:29:41Z", "merged"]], "groups_built": 1, "queue_seconds": 207, "merge_commit": "589a0d21f598e1584c9114e3e30da0be80262eb6"}
+{"pr": 21, "title": "lab: d-3", "added": 3, "removed": [["2026-11-13T07:31:02Z", "failed_checks"], ["2026-11-13T07:38:38Z", "failed_checks"], ["2026-11-13T07:42:52Z", "merged"]], "groups_built": 5, "queue_seconds": 936, "merge_commit": "c803d8cb6ceb3222f1500e9543d477fa40ca64c3"}
+{"pr": 22, "title": "lab: d-4", "added": 2, "removed": [["2026-11-13T07:33:09Z", "failed_checks"], ["2026-11-13T07:42:52Z", "merged"]], "groups_built": 9, "queue_seconds": 874, "merge_commit": "7401133e9d1c458d93d0f3acdd00a41fd6c88617"}
+{"pr": 23, "title": "lab: d-5", "added": 1, "removed": [["2026-11-13T07:36:56Z", "merged"]], "groups_built": 7, "queue_seconds": 456, "merge_commit": "67a4abc699804b187dff6ec6555491b007f0dd81"}
+{"pr": 24, "title": "lab: d-6", "added": 1, "removed": [["2026-11-13T07:36:56Z", "merged"]], "groups_built": 6, "queue_seconds": 394, "merge_commit": "e1ccc7ab3306f59a7c8abe4129a117870edf1b83"}
+{"pr": 25, "title": "lab: d-7", "added": 1, "removed": [["2026-11-13T07:36:56Z", "merged"]], "groups_built": 4, "queue_seconds": 330, "merge_commit": "3873629c9f2c6084465f44a93ba716e7b9f62ff1"}
+{"pr": 26, "title": "lab: d-8", "added": 1, "removed": [["2026-11-13T07:36:56Z", "merged"]], "groups_built": 3, "queue_seconds": 265, "merge_commit": "0ea270b356cb0fc35a725ee392cd4a2b0445ad57"}
+{"pr": 27, "title": "lab: w-1", "added": 1, "removed": [["2026-11-13T07:43:39Z", "merged"]], "groups_built": 1, "queue_seconds": 233, "merge_commit": "9f5578ebded13e11e16b7c170ab4e365b98ce354"}
+{"merged": 9, "of": 9, "median_seconds": 330, "min_seconds": 207, "max_seconds": 936, "removals": 12, "groups_built": 37}

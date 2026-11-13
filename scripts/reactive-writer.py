@@ -3,7 +3,7 @@
 
 Usage: reactive-writer.py <stop-file> <delay-before-bump> <delay-before-pin> [mode]
 mode "two" (default): a bump commit, then a pin commit after <delay-before-pin> seconds.
-mode "one": one commit that moves both files.
+mode "one": one commit that moves both files. mode "one-one": two such commits, <delay-before-pin> apart.
 Runs from the lab checkout. Stops when <stop-file> exists.
 """
 import os
@@ -22,7 +22,11 @@ def ts():
 
 
 def main_head():
-    subprocess.run(["git", "fetch", "-q", remote, "main"], check=True)
+    # Retry: the host's resolver fails now and then for a few seconds.
+    for _ in range(20):
+        if subprocess.run(["git", "fetch", "-q", remote, "main"]).returncode == 0:
+            break
+        time.sleep(3)
     sha = subprocess.run(["git", "rev-parse", "FETCH_HEAD"], capture_output=True, text=True, check=True).stdout.strip()
     subj = subprocess.run(["git", "log", "-1", "--format=%s", "FETCH_HEAD"], capture_output=True, text=True, check=True).stdout.strip()
     return sha, subj
@@ -49,6 +53,11 @@ while not os.path.exists(stop):
             if os.path.exists(stop):
                 break
             if mode == "one":
+                subprocess.run(["bash", "scripts/release-writer.sh", "one"])
+            elif mode == "one-one":
+                # Two consistent commits: the release commit, then a deploy bump.
+                subprocess.run(["bash", "scripts/release-writer.sh", "one"])
+                wait(d_pin)
                 subprocess.run(["bash", "scripts/release-writer.sh", "one"])
             else:
                 subprocess.run(["bash", "scripts/release-writer.sh", "bump"])

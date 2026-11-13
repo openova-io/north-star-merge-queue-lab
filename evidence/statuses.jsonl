@@ -1,0 +1,496 @@
+{"t": "2026-11-13T06:46:10Z", "sha": "83db75e45ac52518505e95fd57b0d294f3bc073d", "kind": "pr", "ref": "#1", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.1 slot-pin=1.0.1", "rc": 0}
+{"t": "2026-11-13T06:46:12Z", "sha": "def069ca084360a81390080cd312628cceac55c7", "kind": "pr", "ref": "#2", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.1 slot-pin=1.0.1", "rc": 0}
+{"t": "2026-11-13T06:46:24Z", "sha": "08ba3ad789e0c82677c51e48ca0738e001bab841", "kind": "pr", "ref": "#3", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.1 slot-pin=1.0.1", "rc": 0}
+{"t": "2026-11-13T06:46:26Z", "sha": "78d0391319b71ef2ee0ac4497a81834983be63ae", "kind": "pr", "ref": "#4", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.1 slot-pin=1.0.1", "rc": 0}
+{"t": "2026-11-13T06:46:28Z", "sha": "1234c440e4982069424449258851570db50896b9", "kind": "pr", "ref": "#5", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.1 slot-pin=1.0.1", "rc": 0}
+{"t": "2026-11-13T06:46:35Z", "sha": "864829ec672d4a3953f6cbda0a91e22512e88465", "kind": "pr", "ref": "#6", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.1 slot-pin=1.0.1", "rc": 0}
+{"t": "2026-11-13T06:46:36Z", "sha": "83db75e45ac52518505e95fd57b0d294f3bc073d", "kind": "pr", "ref": "#1", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T06:46:37Z", "sha": "def069ca084360a81390080cd312628cceac55c7", "kind": "pr", "ref": "#2", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T06:46:47Z", "sha": "08ba3ad789e0c82677c51e48ca0738e001bab841", "kind": "pr", "ref": "#3", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T06:46:49Z", "sha": "78d0391319b71ef2ee0ac4497a81834983be63ae", "kind": "pr", "ref": "#4", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T06:46:50Z", "sha": "1234c440e4982069424449258851570db50896b9", "kind": "pr", "ref": "#5", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T06:46:55Z", "sha": "864829ec672d4a3953f6cbda0a91e22512e88465", "kind": "pr", "ref": "#6", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T06:47:33Z", "sha": "83db75e45ac52518505e95fd57b0d294f3bc073d", "kind": "pr", "ref": "#1", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T06:47:40Z", "sha": "def069ca084360a81390080cd312628cceac55c7", "kind": "pr", "ref": "#2", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T06:47:48Z", "sha": "08ba3ad789e0c82677c51e48ca0738e001bab841", "kind": "pr", "ref": "#3", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T06:47:49Z", "sha": "78d0391319b71ef2ee0ac4497a81834983be63ae", "kind": "pr", "ref": "#4", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T06:47:50Z", "sha": "1234c440e4982069424449258851570db50896b9", "kind": "pr", "ref": "#5", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T06:47:58Z", "sha": "864829ec672d4a3953f6cbda0a91e22512e88465", "kind": "pr", "ref": "#6", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T06:49:04Z", "sha": "83db75e45ac52518505e95fd57b0d294f3bc073d", "kind": "pr", "ref": "#1", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T06:49:05Z", "sha": "def069ca084360a81390080cd312628cceac55c7", "kind": "pr", "ref": "#2", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T06:49:16Z", "sha": "08ba3ad789e0c82677c51e48ca0738e001bab841", "kind": "pr", "ref": "#3", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T06:49:17Z", "sha": "78d0391319b71ef2ee0ac4497a81834983be63ae", "kind": "pr", "ref": "#4", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T06:49:21Z", "sha": "1234c440e4982069424449258851570db50896b9", "kind": "pr", "ref": "#5", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T06:49:26Z", "sha": "864829ec672d4a3953f6cbda0a91e22512e88465", "kind": "pr", "ref": "#6", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T06:49:58Z", "sha": "942f2be9c171e429bca2752513eea01fa0d00b2a", "kind": "group", "ref": "#1", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.1 slot-pin=1.0.1", "rc": 0}
+{"t": "2026-11-13T06:49:59Z", "sha": "2fe595b17a89055bc621ffd32d1964e5a7c21cba", "kind": "group", "ref": "#2", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.1 slot-pin=1.0.1", "rc": 0}
+{"t": "2026-11-13T06:50:00Z", "sha": "8d5317e50ba4f307fb4127292368bf32e03cb29a", "kind": "group", "ref": "#3", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.1 slot-pin=1.0.1", "rc": 0}
+{"t": "2026-11-13T06:50:04Z", "sha": "f5633068617564664629cc18cb3755431f258298", "kind": "group", "ref": "#4", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.1 slot-pin=1.0.1", "rc": 0}
+{"t": "2026-11-13T06:50:07Z", "sha": "98e197673723312d7ad3146eb00da89fbb998287", "kind": "group", "ref": "#5", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.1 slot-pin=1.0.1", "rc": 0}
+{"t": "2026-11-13T06:50:20Z", "sha": "942f2be9c171e429bca2752513eea01fa0d00b2a", "kind": "group", "ref": "#1", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T06:50:21Z", "sha": "2fe595b17a89055bc621ffd32d1964e5a7c21cba", "kind": "group", "ref": "#2", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T06:50:28Z", "sha": "8d5317e50ba4f307fb4127292368bf32e03cb29a", "kind": "group", "ref": "#3", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T06:50:30Z", "sha": "f5633068617564664629cc18cb3755431f258298", "kind": "group", "ref": "#4", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T06:50:31Z", "sha": "98e197673723312d7ad3146eb00da89fbb998287", "kind": "group", "ref": "#5", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T06:51:23Z", "sha": "942f2be9c171e429bca2752513eea01fa0d00b2a", "kind": "group", "ref": "#1", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T06:51:24Z", "sha": "2fe595b17a89055bc621ffd32d1964e5a7c21cba", "kind": "group", "ref": "#2", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T06:51:25Z", "sha": "8d5317e50ba4f307fb4127292368bf32e03cb29a", "kind": "group", "ref": "#3", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T06:51:25Z", "sha": "f5633068617564664629cc18cb3755431f258298", "kind": "group", "ref": "#4", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T06:51:26Z", "sha": "98e197673723312d7ad3146eb00da89fbb998287", "kind": "group", "ref": "#5", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T06:52:53Z", "sha": "942f2be9c171e429bca2752513eea01fa0d00b2a", "kind": "group", "ref": "#1", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T06:52:54Z", "sha": "2fe595b17a89055bc621ffd32d1964e5a7c21cba", "kind": "group", "ref": "#2", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T06:52:55Z", "sha": "8d5317e50ba4f307fb4127292368bf32e03cb29a", "kind": "group", "ref": "#3", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T06:52:55Z", "sha": "f5633068617564664629cc18cb3755431f258298", "kind": "group", "ref": "#4", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T06:52:56Z", "sha": "98e197673723312d7ad3146eb00da89fbb998287", "kind": "group", "ref": "#5", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T06:53:35Z", "sha": "5bdf4d41b974b57dc52ff7729f8f84b720a31618", "kind": "group", "ref": "#6", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.1 slot-pin=1.0.1", "rc": 0}
+{"t": "2026-11-13T06:54:01Z", "sha": "5bdf4d41b974b57dc52ff7729f8f84b720a31618", "kind": "group", "ref": "#6", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T06:55:01Z", "sha": "5bdf4d41b974b57dc52ff7729f8f84b720a31618", "kind": "group", "ref": "#6", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T06:56:31Z", "sha": "5bdf4d41b974b57dc52ff7729f8f84b720a31618", "kind": "group", "ref": "#6", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T06:58:13Z", "sha": "e2dd769b8811d55922784b2fad5b7b22fba017f0", "kind": "pr", "ref": "#7", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.1 slot-pin=1.0.1", "rc": 0}
+{"t": "2026-11-13T06:58:22Z", "sha": "f7833c807d5879a5b780042c2309b49278b26550", "kind": "pr", "ref": "#8", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.1 slot-pin=1.0.1", "rc": 0}
+{"t": "2026-11-13T06:58:27Z", "sha": "3dff495998d72b3149abd7ce3476a9aa3ee48cc4", "kind": "pr", "ref": "#9", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.1 slot-pin=1.0.1", "rc": 0}
+{"t": "2026-11-13T06:58:28Z", "sha": "83b7118a285c3e25955bf25ea279bee8908e7abc", "kind": "pr", "ref": "#10", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.1 slot-pin=1.0.1", "rc": 0}
+{"t": "2026-11-13T06:58:33Z", "sha": "e2dd769b8811d55922784b2fad5b7b22fba017f0", "kind": "pr", "ref": "#7", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T06:58:46Z", "sha": "f7833c807d5879a5b780042c2309b49278b26550", "kind": "pr", "ref": "#8", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T06:58:50Z", "sha": "6d614050df7b8ee7fed745ff0fd9084ab3ce6ada", "kind": "pr", "ref": "#11", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.1 slot-pin=1.0.1", "rc": 0}
+{"t": "2026-11-13T06:58:51Z", "sha": "650819d836df20b6c570904636741ffe291cd898", "kind": "pr", "ref": "#12", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.1 slot-pin=1.0.1", "rc": 0}
+{"t": "2026-11-13T06:58:52Z", "sha": "3dff495998d72b3149abd7ce3476a9aa3ee48cc4", "kind": "pr", "ref": "#9", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T06:58:53Z", "sha": "83b7118a285c3e25955bf25ea279bee8908e7abc", "kind": "pr", "ref": "#10", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T06:59:10Z", "sha": "6d614050df7b8ee7fed745ff0fd9084ab3ce6ada", "kind": "pr", "ref": "#11", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T06:59:11Z", "sha": "650819d836df20b6c570904636741ffe291cd898", "kind": "pr", "ref": "#12", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T06:59:34Z", "sha": "e2dd769b8811d55922784b2fad5b7b22fba017f0", "kind": "pr", "ref": "#7", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T06:59:42Z", "sha": "f7833c807d5879a5b780042c2309b49278b26550", "kind": "pr", "ref": "#8", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T06:59:51Z", "sha": "3dff495998d72b3149abd7ce3476a9aa3ee48cc4", "kind": "pr", "ref": "#9", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T06:59:52Z", "sha": "83b7118a285c3e25955bf25ea279bee8908e7abc", "kind": "pr", "ref": "#10", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:00:11Z", "sha": "6d614050df7b8ee7fed745ff0fd9084ab3ce6ada", "kind": "pr", "ref": "#11", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:00:13Z", "sha": "650819d836df20b6c570904636741ffe291cd898", "kind": "pr", "ref": "#12", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:01:03Z", "sha": "e2dd769b8811d55922784b2fad5b7b22fba017f0", "kind": "pr", "ref": "#7", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:01:11Z", "sha": "f7833c807d5879a5b780042c2309b49278b26550", "kind": "pr", "ref": "#8", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:01:23Z", "sha": "3dff495998d72b3149abd7ce3476a9aa3ee48cc4", "kind": "pr", "ref": "#9", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:01:24Z", "sha": "83b7118a285c3e25955bf25ea279bee8908e7abc", "kind": "pr", "ref": "#10", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:01:45Z", "sha": "6d614050df7b8ee7fed745ff0fd9084ab3ce6ada", "kind": "pr", "ref": "#11", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:01:46Z", "sha": "650819d836df20b6c570904636741ffe291cd898", "kind": "pr", "ref": "#12", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:02:23Z", "sha": "c4d6ec8babb3f4d52e683692df39881b26e9be80", "kind": "group", "ref": "#7", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.1 slot-pin=1.0.1", "rc": 0}
+{"t": "2026-11-13T07:02:28Z", "sha": "4dcf21150ed95b7c966c990395da7d3c1ff7de64", "kind": "group", "ref": "#8", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.1 slot-pin=1.0.1", "rc": 0}
+{"t": "2026-11-13T07:02:29Z", "sha": "1eec3a8aa79585a5a54c108f298b3247bd7d51e9", "kind": "group", "ref": "#9", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.1 slot-pin=1.0.1", "rc": 0}
+{"t": "2026-11-13T07:02:30Z", "sha": "4c486f0c7ceb4323604a8216584ed191d7a65996", "kind": "group", "ref": "#10", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.1 slot-pin=1.0.1", "rc": 0}
+{"t": "2026-11-13T07:02:31Z", "sha": "16f0fea324793dc1a4ff345d9522be2b571ec0c7", "kind": "group", "ref": "#11", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.1 slot-pin=1.0.1", "rc": 0}
+{"t": "2026-11-13T07:02:43Z", "sha": "c4d6ec8babb3f4d52e683692df39881b26e9be80", "kind": "group", "ref": "#7", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:02:44Z", "sha": "4dcf21150ed95b7c966c990395da7d3c1ff7de64", "kind": "group", "ref": "#8", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:02:44Z", "sha": "1eec3a8aa79585a5a54c108f298b3247bd7d51e9", "kind": "group", "ref": "#9", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:02:51Z", "sha": "4c486f0c7ceb4323604a8216584ed191d7a65996", "kind": "group", "ref": "#10", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:02:52Z", "sha": "16f0fea324793dc1a4ff345d9522be2b571ec0c7", "kind": "group", "ref": "#11", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:03:44Z", "sha": "c4d6ec8babb3f4d52e683692df39881b26e9be80", "kind": "group", "ref": "#7", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:03:45Z", "sha": "4dcf21150ed95b7c966c990395da7d3c1ff7de64", "kind": "group", "ref": "#8", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:03:45Z", "sha": "1eec3a8aa79585a5a54c108f298b3247bd7d51e9", "kind": "group", "ref": "#9", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:03:46Z", "sha": "4c486f0c7ceb4323604a8216584ed191d7a65996", "kind": "group", "ref": "#10", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:03:47Z", "sha": "16f0fea324793dc1a4ff345d9522be2b571ec0c7", "kind": "group", "ref": "#11", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:04:04Z", "sha": "e615531fb4e334e35b54c0a7e7555782f41ea3d2", "kind": "group", "ref": "#7", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:04:06Z", "sha": "505d71a3c6611deb6e699e1ee815477ab30bed3e", "kind": "group", "ref": "#8", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:04:07Z", "sha": "b85557d4dfa3a4337ecacf35951b35f416c7f0d3", "kind": "group", "ref": "#9", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:04:09Z", "sha": "d67b1295e04691d4ba4e7c2b944f22e863ca8bed", "kind": "group", "ref": "#10", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:04:10Z", "sha": "ca13eded99d430c6919a7c55e69b71276a325cda", "kind": "group", "ref": "#11", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:04:26Z", "sha": "e615531fb4e334e35b54c0a7e7555782f41ea3d2", "kind": "group", "ref": "#7", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:04:26Z", "sha": "505d71a3c6611deb6e699e1ee815477ab30bed3e", "kind": "group", "ref": "#8", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:04:27Z", "sha": "b85557d4dfa3a4337ecacf35951b35f416c7f0d3", "kind": "group", "ref": "#9", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:04:33Z", "sha": "d67b1295e04691d4ba4e7c2b944f22e863ca8bed", "kind": "group", "ref": "#10", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:04:35Z", "sha": "ca13eded99d430c6919a7c55e69b71276a325cda", "kind": "group", "ref": "#11", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:05:14Z", "sha": "c4d6ec8babb3f4d52e683692df39881b26e9be80", "kind": "group", "ref": "#7", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:05:14Z", "sha": "4dcf21150ed95b7c966c990395da7d3c1ff7de64", "kind": "group", "ref": "#8", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:05:14Z", "sha": "1eec3a8aa79585a5a54c108f298b3247bd7d51e9", "kind": "group", "ref": "#9", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:05:18Z", "sha": "4c486f0c7ceb4323604a8216584ed191d7a65996", "kind": "group", "ref": "#10", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:05:18Z", "sha": "16f0fea324793dc1a4ff345d9522be2b571ec0c7", "kind": "group", "ref": "#11", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:05:27Z", "sha": "e615531fb4e334e35b54c0a7e7555782f41ea3d2", "kind": "group", "ref": "#7", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:05:27Z", "sha": "505d71a3c6611deb6e699e1ee815477ab30bed3e", "kind": "group", "ref": "#8", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:05:28Z", "sha": "b85557d4dfa3a4337ecacf35951b35f416c7f0d3", "kind": "group", "ref": "#9", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:05:29Z", "sha": "d67b1295e04691d4ba4e7c2b944f22e863ca8bed", "kind": "group", "ref": "#10", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:05:30Z", "sha": "ca13eded99d430c6919a7c55e69b71276a325cda", "kind": "group", "ref": "#11", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:06:57Z", "sha": "e615531fb4e334e35b54c0a7e7555782f41ea3d2", "kind": "group", "ref": "#7", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:06:57Z", "sha": "505d71a3c6611deb6e699e1ee815477ab30bed3e", "kind": "group", "ref": "#8", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:06:58Z", "sha": "b85557d4dfa3a4337ecacf35951b35f416c7f0d3", "kind": "group", "ref": "#9", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:06:58Z", "sha": "d67b1295e04691d4ba4e7c2b944f22e863ca8bed", "kind": "group", "ref": "#10", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:06:59Z", "sha": "ca13eded99d430c6919a7c55e69b71276a325cda", "kind": "group", "ref": "#11", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:07:39Z", "sha": "c9b2c467536e4d6b84f5e59986f50fedc272eea8", "kind": "group", "ref": "#12", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:08:04Z", "sha": "c9b2c467536e4d6b84f5e59986f50fedc272eea8", "kind": "group", "ref": "#12", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:09:03Z", "sha": "c9b2c467536e4d6b84f5e59986f50fedc272eea8", "kind": "group", "ref": "#12", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:10:32Z", "sha": "c9b2c467536e4d6b84f5e59986f50fedc272eea8", "kind": "group", "ref": "#12", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:11:44Z", "sha": "dd2ef6e61b3a97e62e3bf3f2c4680cf03a748900", "kind": "pr", "ref": "#13", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:11:49Z", "sha": "301f67ccfc230078905547a1f5f3014b8aee45b4", "kind": "pr", "ref": "#14", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:11:57Z", "sha": "a76c97ed93f42f8b0717b700a29cdd7f91e27e1e", "kind": "pr", "ref": "#15", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:11:59Z", "sha": "2cd8f2515b6058cf2293c167c2adb98cf55786e3", "kind": "pr", "ref": "#16", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:12:01Z", "sha": "3add594a3c1069b4246765bbec03690bae83f464", "kind": "pr", "ref": "#17", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:12:05Z", "sha": "b8de18d63e297a5a5a2c0fbcbc9b5dc3e38ab9ab", "kind": "pr", "ref": "#18", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:12:06Z", "sha": "dd2ef6e61b3a97e62e3bf3f2c4680cf03a748900", "kind": "pr", "ref": "#13", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:12:14Z", "sha": "301f67ccfc230078905547a1f5f3014b8aee45b4", "kind": "pr", "ref": "#14", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:12:19Z", "sha": "a76c97ed93f42f8b0717b700a29cdd7f91e27e1e", "kind": "pr", "ref": "#15", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:12:19Z", "sha": "2cd8f2515b6058cf2293c167c2adb98cf55786e3", "kind": "pr", "ref": "#16", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:12:27Z", "sha": "3add594a3c1069b4246765bbec03690bae83f464", "kind": "pr", "ref": "#17", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:12:28Z", "sha": "b8de18d63e297a5a5a2c0fbcbc9b5dc3e38ab9ab", "kind": "pr", "ref": "#18", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:13:07Z", "sha": "dd2ef6e61b3a97e62e3bf3f2c4680cf03a748900", "kind": "pr", "ref": "#13", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:13:15Z", "sha": "301f67ccfc230078905547a1f5f3014b8aee45b4", "kind": "pr", "ref": "#14", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:13:20Z", "sha": "a76c97ed93f42f8b0717b700a29cdd7f91e27e1e", "kind": "pr", "ref": "#15", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:13:23Z", "sha": "2cd8f2515b6058cf2293c167c2adb98cf55786e3", "kind": "pr", "ref": "#16", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:13:25Z", "sha": "3add594a3c1069b4246765bbec03690bae83f464", "kind": "pr", "ref": "#17", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:13:29Z", "sha": "b8de18d63e297a5a5a2c0fbcbc9b5dc3e38ab9ab", "kind": "pr", "ref": "#18", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:14:38Z", "sha": "dd2ef6e61b3a97e62e3bf3f2c4680cf03a748900", "kind": "pr", "ref": "#13", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:14:47Z", "sha": "301f67ccfc230078905547a1f5f3014b8aee45b4", "kind": "pr", "ref": "#14", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:14:51Z", "sha": "a76c97ed93f42f8b0717b700a29cdd7f91e27e1e", "kind": "pr", "ref": "#15", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:14:52Z", "sha": "2cd8f2515b6058cf2293c167c2adb98cf55786e3", "kind": "pr", "ref": "#16", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:14:56Z", "sha": "3add594a3c1069b4246765bbec03690bae83f464", "kind": "pr", "ref": "#17", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:14:57Z", "sha": "b8de18d63e297a5a5a2c0fbcbc9b5dc3e38ab9ab", "kind": "pr", "ref": "#18", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:15:37Z", "sha": "c3a91c330964acaaa47575fb38f4f92dfe1ac629", "kind": "group", "ref": "#13", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:15:38Z", "sha": "45437acced1736b4a3cf79b15df7d0a7b7400787", "kind": "group", "ref": "#14", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:15:39Z", "sha": "9fb93bb46f8735ea76904c777821621791ddbc8b", "kind": "group", "ref": "#15", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:15:40Z", "sha": "61b08f8ef6fc590b96c1480698507a6f5930f343", "kind": "group", "ref": "#16", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:15:41Z", "sha": "4a6a9c98ef609b956354c00bd90b230c47515556", "kind": "group", "ref": "#17", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:16:02Z", "sha": "c3a91c330964acaaa47575fb38f4f92dfe1ac629", "kind": "group", "ref": "#13", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:16:03Z", "sha": "45437acced1736b4a3cf79b15df7d0a7b7400787", "kind": "group", "ref": "#14", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:16:03Z", "sha": "9fb93bb46f8735ea76904c777821621791ddbc8b", "kind": "group", "ref": "#15", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:16:04Z", "sha": "61b08f8ef6fc590b96c1480698507a6f5930f343", "kind": "group", "ref": "#16", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:16:05Z", "sha": "4a6a9c98ef609b956354c00bd90b230c47515556", "kind": "group", "ref": "#17", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:16:10Z", "sha": "e52c24f8643f2d4580b4a254c2afbf77c477aa4f", "kind": "pr", "ref": "#19", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:16:19Z", "sha": "bc0f5941f6b44fa0e6d5d9410f68349ec6905812", "kind": "pr", "ref": "#20", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:16:21Z", "sha": "68de8abf2b6517f18255eba0c4746da8e15800cf", "kind": "pr", "ref": "#21", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:16:22Z", "sha": "72f53bc88909c7dcef6a718d2b8c6cfd2439c1a4", "kind": "pr", "ref": "#22", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:16:24Z", "sha": "fc0fd43cbf3e88d2c2803e8e99332097b1eadcf8", "kind": "pr", "ref": "#23", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:16:33Z", "sha": "e52c24f8643f2d4580b4a254c2afbf77c477aa4f", "kind": "pr", "ref": "#19", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:16:40Z", "sha": "60a9277948aa73159841533a0e9b99723e5da4fc", "kind": "pr", "ref": "#24", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:16:42Z", "sha": "0cdbddf73f65f66a8b39d2b62d108b77f211b513", "kind": "pr", "ref": "#25", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:16:42Z", "sha": "bc0f5941f6b44fa0e6d5d9410f68349ec6905812", "kind": "pr", "ref": "#20", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:16:43Z", "sha": "68de8abf2b6517f18255eba0c4746da8e15800cf", "kind": "pr", "ref": "#21", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:16:48Z", "sha": "781f0607aad1eaf2846b7816faf818698b306eae", "kind": "pr", "ref": "#26", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:16:49Z", "sha": "72f53bc88909c7dcef6a718d2b8c6cfd2439c1a4", "kind": "pr", "ref": "#22", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:16:50Z", "sha": "fc0fd43cbf3e88d2c2803e8e99332097b1eadcf8", "kind": "pr", "ref": "#23", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:17:02Z", "sha": "60a9277948aa73159841533a0e9b99723e5da4fc", "kind": "pr", "ref": "#24", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:17:03Z", "sha": "c3a91c330964acaaa47575fb38f4f92dfe1ac629", "kind": "group", "ref": "#13", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:17:04Z", "sha": "45437acced1736b4a3cf79b15df7d0a7b7400787", "kind": "group", "ref": "#14", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:17:05Z", "sha": "0cdbddf73f65f66a8b39d2b62d108b77f211b513", "kind": "pr", "ref": "#25", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:17:06Z", "sha": "9fb93bb46f8735ea76904c777821621791ddbc8b", "kind": "group", "ref": "#15", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:17:07Z", "sha": "61b08f8ef6fc590b96c1480698507a6f5930f343", "kind": "group", "ref": "#16", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:17:08Z", "sha": "4a6a9c98ef609b956354c00bd90b230c47515556", "kind": "group", "ref": "#17", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:17:16Z", "sha": "781f0607aad1eaf2846b7816faf818698b306eae", "kind": "pr", "ref": "#26", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:17:35Z", "sha": "e52c24f8643f2d4580b4a254c2afbf77c477aa4f", "kind": "pr", "ref": "#19", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:17:39Z", "sha": "bc0f5941f6b44fa0e6d5d9410f68349ec6905812", "kind": "pr", "ref": "#20", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:17:40Z", "sha": "68de8abf2b6517f18255eba0c4746da8e15800cf", "kind": "pr", "ref": "#21", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:17:48Z", "sha": "72f53bc88909c7dcef6a718d2b8c6cfd2439c1a4", "kind": "pr", "ref": "#22", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:17:49Z", "sha": "fc0fd43cbf3e88d2c2803e8e99332097b1eadcf8", "kind": "pr", "ref": "#23", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:18:01Z", "sha": "60a9277948aa73159841533a0e9b99723e5da4fc", "kind": "pr", "ref": "#24", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:18:05Z", "sha": "0cdbddf73f65f66a8b39d2b62d108b77f211b513", "kind": "pr", "ref": "#25", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:18:12Z", "sha": "781f0607aad1eaf2846b7816faf818698b306eae", "kind": "pr", "ref": "#26", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:18:31Z", "sha": "c3a91c330964acaaa47575fb38f4f92dfe1ac629", "kind": "group", "ref": "#13", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:18:31Z", "sha": "45437acced1736b4a3cf79b15df7d0a7b7400787", "kind": "group", "ref": "#14", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:18:36Z", "sha": "9fb93bb46f8735ea76904c777821621791ddbc8b", "kind": "group", "ref": "#15", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:18:36Z", "sha": "61b08f8ef6fc590b96c1480698507a6f5930f343", "kind": "group", "ref": "#16", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:18:37Z", "sha": "4a6a9c98ef609b956354c00bd90b230c47515556", "kind": "group", "ref": "#17", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:19:03Z", "sha": "e52c24f8643f2d4580b4a254c2afbf77c477aa4f", "kind": "pr", "ref": "#19", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:19:09Z", "sha": "bc0f5941f6b44fa0e6d5d9410f68349ec6905812", "kind": "pr", "ref": "#20", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:19:10Z", "sha": "68de8abf2b6517f18255eba0c4746da8e15800cf", "kind": "pr", "ref": "#21", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:19:16Z", "sha": "ceca8a4221d4d2c77237f52b62b1d92f3e5007fe", "kind": "group", "ref": "#18", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.2 slot-pin=1.0.2", "rc": 0}
+{"t": "2026-11-13T07:19:17Z", "sha": "72f53bc88909c7dcef6a718d2b8c6cfd2439c1a4", "kind": "pr", "ref": "#22", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:19:17Z", "sha": "fc0fd43cbf3e88d2c2803e8e99332097b1eadcf8", "kind": "pr", "ref": "#23", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:19:31Z", "sha": "60a9277948aa73159841533a0e9b99723e5da4fc", "kind": "pr", "ref": "#24", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:19:36Z", "sha": "0cdbddf73f65f66a8b39d2b62d108b77f211b513", "kind": "pr", "ref": "#25", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:19:40Z", "sha": "ceca8a4221d4d2c77237f52b62b1d92f3e5007fe", "kind": "group", "ref": "#18", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:19:41Z", "sha": "781f0607aad1eaf2846b7816faf818698b306eae", "kind": "pr", "ref": "#26", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:20:22Z", "sha": "f41f1f583a9d08a0046279d09c3917b5cf25d628", "kind": "group", "ref": "#18", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.3 slot-pin=1.0.3", "rc": 0}
+{"t": "2026-11-13T07:20:41Z", "sha": "ceca8a4221d4d2c77237f52b62b1d92f3e5007fe", "kind": "group", "ref": "#18", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:20:45Z", "sha": "f41f1f583a9d08a0046279d09c3917b5cf25d628", "kind": "group", "ref": "#18", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:21:46Z", "sha": "f41f1f583a9d08a0046279d09c3917b5cf25d628", "kind": "group", "ref": "#18", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:22:10Z", "sha": "ceca8a4221d4d2c77237f52b62b1d92f3e5007fe", "kind": "group", "ref": "#18", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:23:16Z", "sha": "f41f1f583a9d08a0046279d09c3917b5cf25d628", "kind": "group", "ref": "#18", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:25:39Z", "sha": "41f40984bb996174b708ccd2f18e8adfb8bedbc7", "kind": "group", "ref": "#19", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.4 slot-pin=1.0.4", "rc": 0}
+{"t": "2026-11-13T07:26:02Z", "sha": "41f40984bb996174b708ccd2f18e8adfb8bedbc7", "kind": "group", "ref": "#19", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:26:42Z", "sha": "589a0d21f598e1584c9114e3e30da0be80262eb6", "kind": "group", "ref": "#20", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.4 slot-pin=1.0.4", "rc": 0}
+{"t": "2026-11-13T07:27:07Z", "sha": "41f40984bb996174b708ccd2f18e8adfb8bedbc7", "kind": "group", "ref": "#19", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:27:08Z", "sha": "589a0d21f598e1584c9114e3e30da0be80262eb6", "kind": "group", "ref": "#20", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:27:44Z", "sha": "64bd590f721bad226c15207ec7b2124986efc9e0", "kind": "group", "ref": "#21", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.4 slot-pin=1.0.4", "rc": 0}
+{"t": "2026-11-13T07:28:04Z", "sha": "589a0d21f598e1584c9114e3e30da0be80262eb6", "kind": "group", "ref": "#20", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:28:08Z", "sha": "64bd590f721bad226c15207ec7b2124986efc9e0", "kind": "group", "ref": "#21", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:28:34Z", "sha": "41f40984bb996174b708ccd2f18e8adfb8bedbc7", "kind": "group", "ref": "#19", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:29:01Z", "sha": "60dcafabf3b3508a3296aa7452ee89e8b4efdab9", "kind": "group", "ref": "#22", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.4 slot-pin=1.0.4", "rc": 0}
+{"t": "2026-11-13T07:29:09Z", "sha": "64bd590f721bad226c15207ec7b2124986efc9e0", "kind": "group", "ref": "#21", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:29:21Z", "sha": "60dcafabf3b3508a3296aa7452ee89e8b4efdab9", "kind": "group", "ref": "#22", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:29:35Z", "sha": "42259733deccee1d9b68d3237cf7e056b366d4c1", "kind": "group", "ref": "#23", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.4 slot-pin=1.0.4", "rc": 0}
+{"t": "2026-11-13T07:29:36Z", "sha": "589a0d21f598e1584c9114e3e30da0be80262eb6", "kind": "group", "ref": "#20", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:30:01Z", "sha": "42259733deccee1d9b68d3237cf7e056b366d4c1", "kind": "group", "ref": "#23", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:30:21Z", "sha": "60dcafabf3b3508a3296aa7452ee89e8b4efdab9", "kind": "group", "ref": "#22", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:30:31Z", "sha": "438e98d00bfc3c66c04bd37786b5f7ac220df450", "kind": "pr", "ref": "#27", "context": "pin-match", "state": "failure", "desc": "chart-version=1.0.5 slot-pin=1.0.4", "rc": 0}
+{"t": "2026-11-13T07:30:39Z", "sha": "50d7eef7d80ec3b7157b7a64390921ff88525e37", "kind": "group", "ref": "#21", "context": "pin-match", "state": "failure", "desc": "chart-version=1.0.5 slot-pin=1.0.4", "rc": 0}
+{"t": "2026-11-13T07:30:39Z", "sha": "64bd590f721bad226c15207ec7b2124986efc9e0", "kind": "group", "ref": "#21", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:30:44Z", "sha": "c4345708f0dd5b03f093b51fe89ba6927214b14c", "kind": "group", "ref": "#22", "context": "pin-match", "state": "failure", "desc": "chart-version=1.0.5 slot-pin=1.0.4", "rc": 0}
+{"t": "2026-11-13T07:30:45Z", "sha": "1f7e0a6242d186f1f17cee8aeb35c9eecc45b412", "kind": "group", "ref": "#23", "context": "pin-match", "state": "failure", "desc": "chart-version=1.0.5 slot-pin=1.0.4", "rc": 0}
+{"t": "2026-11-13T07:30:46Z", "sha": "22b5057aa655d653b4502c7378520b94b617c8d1", "kind": "group", "ref": "#24", "context": "pin-match", "state": "failure", "desc": "chart-version=1.0.5 slot-pin=1.0.4", "rc": 0}
+{"t": "2026-11-13T07:30:54Z", "sha": "438e98d00bfc3c66c04bd37786b5f7ac220df450", "kind": "pr", "ref": "#27", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:30:58Z", "sha": "42259733deccee1d9b68d3237cf7e056b366d4c1", "kind": "group", "ref": "#23", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:31:02Z", "sha": "50d7eef7d80ec3b7157b7a64390921ff88525e37", "kind": "group", "ref": "#21", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:31:07Z", "sha": "c4345708f0dd5b03f093b51fe89ba6927214b14c", "kind": "group", "ref": "#22", "context": "dummy-5", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:31:07Z", "sha": "1f7e0a6242d186f1f17cee8aeb35c9eecc45b412", "kind": "group", "ref": "#23", "context": "dummy-5", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:31:07Z", "sha": "22b5057aa655d653b4502c7378520b94b617c8d1", "kind": "group", "ref": "#24", "context": "dummy-5", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:31:16Z", "sha": "574cb73b6c5f70e00956a14f360f562b39e6147c", "kind": "group", "ref": "#22", "context": "pin-match", "state": "failure", "desc": "chart-version=1.0.5 slot-pin=1.0.4", "rc": 0}
+{"t": "2026-11-13T07:31:17Z", "sha": "d52dd13d4bd84be0ae229ab5d788b4a61b96c223", "kind": "group", "ref": "#23", "context": "pin-match", "state": "failure", "desc": "chart-version=1.0.5 slot-pin=1.0.4", "rc": 0}
+{"t": "2026-11-13T07:31:18Z", "sha": "0fad9550977a1ab9b0236a4a48d7db369a86c504", "kind": "group", "ref": "#24", "context": "pin-match", "state": "failure", "desc": "chart-version=1.0.5 slot-pin=1.0.4", "rc": 0}
+{"t": "2026-11-13T07:31:41Z", "sha": "574cb73b6c5f70e00956a14f360f562b39e6147c", "kind": "group", "ref": "#22", "context": "dummy-5", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:31:41Z", "sha": "d52dd13d4bd84be0ae229ab5d788b4a61b96c223", "kind": "group", "ref": "#23", "context": "dummy-5", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:31:41Z", "sha": "0fad9550977a1ab9b0236a4a48d7db369a86c504", "kind": "group", "ref": "#24", "context": "dummy-5", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:31:42Z", "sha": "f250fdfcde7106d9c958160f2e6ede058ea1d2f4", "kind": "group", "ref": "#22", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.5 slot-pin=1.0.5", "rc": 0}
+{"t": "2026-11-13T07:31:43Z", "sha": "ec6b3b97f5b5f69535862177ce31e933ead9084f", "kind": "group", "ref": "#23", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.5 slot-pin=1.0.5", "rc": 0}
+{"t": "2026-11-13T07:31:44Z", "sha": "c92f7407e6e7cc73575bfee15ee8ae4f0d84803d", "kind": "group", "ref": "#24", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.5 slot-pin=1.0.5", "rc": 0}
+{"t": "2026-11-13T07:31:45Z", "sha": "ec321aa9f7a8203790e7278914d40a7917051177", "kind": "group", "ref": "#25", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.5 slot-pin=1.0.5", "rc": 0}
+{"t": "2026-11-13T07:31:52Z", "sha": "60dcafabf3b3508a3296aa7452ee89e8b4efdab9", "kind": "group", "ref": "#22", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:31:52Z", "sha": "438e98d00bfc3c66c04bd37786b5f7ac220df450", "kind": "pr", "ref": "#27", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:32:00Z", "sha": "50d7eef7d80ec3b7157b7a64390921ff88525e37", "kind": "group", "ref": "#21", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:32:04Z", "sha": "f250fdfcde7106d9c958160f2e6ede058ea1d2f4", "kind": "group", "ref": "#22", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:32:05Z", "sha": "ec6b3b97f5b5f69535862177ce31e933ead9084f", "kind": "group", "ref": "#23", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:32:05Z", "sha": "c4345708f0dd5b03f093b51fe89ba6927214b14c", "kind": "group", "ref": "#22", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:32:05Z", "sha": "1f7e0a6242d186f1f17cee8aeb35c9eecc45b412", "kind": "group", "ref": "#23", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:32:05Z", "sha": "22b5057aa655d653b4502c7378520b94b617c8d1", "kind": "group", "ref": "#24", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:32:10Z", "sha": "c92f7407e6e7cc73575bfee15ee8ae4f0d84803d", "kind": "group", "ref": "#24", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:32:10Z", "sha": "ec321aa9f7a8203790e7278914d40a7917051177", "kind": "group", "ref": "#25", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:32:31Z", "sha": "42259733deccee1d9b68d3237cf7e056b366d4c1", "kind": "group", "ref": "#23", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:32:39Z", "sha": "574cb73b6c5f70e00956a14f360f562b39e6147c", "kind": "group", "ref": "#22", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:32:39Z", "sha": "d52dd13d4bd84be0ae229ab5d788b4a61b96c223", "kind": "group", "ref": "#23", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:32:39Z", "sha": "0fad9550977a1ab9b0236a4a48d7db369a86c504", "kind": "group", "ref": "#24", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:32:48Z", "sha": "94223e79537c834dac492ccb5841c3c4c2b1d98d", "kind": "group", "ref": "#22", "context": "pin-match", "state": "failure", "desc": "chart-version=1.0.6 slot-pin=1.0.5", "rc": 0}
+{"t": "2026-11-13T07:32:50Z", "sha": "aebff2fc9c8823ac871c92d6d6f4f0cb787c30a7", "kind": "group", "ref": "#23", "context": "pin-match", "state": "failure", "desc": "chart-version=1.0.6 slot-pin=1.0.5", "rc": 0}
+{"t": "2026-11-13T07:32:51Z", "sha": "031917930a59539fa54d00d119af60fc8dd0fc1c", "kind": "group", "ref": "#24", "context": "pin-match", "state": "failure", "desc": "chart-version=1.0.6 slot-pin=1.0.5", "rc": 0}
+{"t": "2026-11-13T07:32:52Z", "sha": "7be801573b2084d73ed8eef50d7048fcfe21f5aa", "kind": "group", "ref": "#25", "context": "pin-match", "state": "failure", "desc": "chart-version=1.0.6 slot-pin=1.0.5", "rc": 0}
+{"t": "2026-11-13T07:32:53Z", "sha": "131f8de28543480db6c5a8b5d5d66194f75088be", "kind": "group", "ref": "#26", "context": "pin-match", "state": "failure", "desc": "chart-version=1.0.6 slot-pin=1.0.5", "rc": 0}
+{"t": "2026-11-13T07:33:06Z", "sha": "f250fdfcde7106d9c958160f2e6ede058ea1d2f4", "kind": "group", "ref": "#22", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:33:06Z", "sha": "ec6b3b97f5b5f69535862177ce31e933ead9084f", "kind": "group", "ref": "#23", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:33:10Z", "sha": "c92f7407e6e7cc73575bfee15ee8ae4f0d84803d", "kind": "group", "ref": "#24", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:33:10Z", "sha": "ec321aa9f7a8203790e7278914d40a7917051177", "kind": "group", "ref": "#25", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:33:10Z", "sha": "94223e79537c834dac492ccb5841c3c4c2b1d98d", "kind": "group", "ref": "#22", "context": "dummy-5", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:33:10Z", "sha": "aebff2fc9c8823ac871c92d6d6f4f0cb787c30a7", "kind": "group", "ref": "#23", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:33:11Z", "sha": "031917930a59539fa54d00d119af60fc8dd0fc1c", "kind": "group", "ref": "#24", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:33:12Z", "sha": "7be801573b2084d73ed8eef50d7048fcfe21f5aa", "kind": "group", "ref": "#25", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:33:15Z", "sha": "131f8de28543480db6c5a8b5d5d66194f75088be", "kind": "group", "ref": "#26", "context": "dummy-5", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:33:24Z", "sha": "1e519a7168d2bd3e1cdcd6257d6a2eab71fec2bd", "kind": "group", "ref": "#23", "context": "pin-match", "state": "failure", "desc": "chart-version=1.0.6 slot-pin=1.0.5", "rc": 0}
+{"t": "2026-11-13T07:33:25Z", "sha": "b53b5c62246c95329dff859a6ab4b1676580b842", "kind": "group", "ref": "#24", "context": "pin-match", "state": "failure", "desc": "chart-version=1.0.6 slot-pin=1.0.5", "rc": 0}
+{"t": "2026-11-13T07:33:26Z", "sha": "b31b2ae0c5634176d08371fede89512bfe428a04", "kind": "group", "ref": "#25", "context": "pin-match", "state": "failure", "desc": "chart-version=1.0.6 slot-pin=1.0.5", "rc": 0}
+{"t": "2026-11-13T07:33:27Z", "sha": "154bf31ae28c6bdb2a04e0216e542c0f0d079a7e", "kind": "group", "ref": "#26", "context": "pin-match", "state": "failure", "desc": "chart-version=1.0.6 slot-pin=1.0.5", "rc": 0}
+{"t": "2026-11-13T07:33:29Z", "sha": "438e98d00bfc3c66c04bd37786b5f7ac220df450", "kind": "pr", "ref": "#27", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:33:33Z", "sha": "50d7eef7d80ec3b7157b7a64390921ff88525e37", "kind": "group", "ref": "#21", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:33:36Z", "sha": "c4345708f0dd5b03f093b51fe89ba6927214b14c", "kind": "group", "ref": "#22", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:33:36Z", "sha": "1f7e0a6242d186f1f17cee8aeb35c9eecc45b412", "kind": "group", "ref": "#23", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:33:36Z", "sha": "22b5057aa655d653b4502c7378520b94b617c8d1", "kind": "group", "ref": "#24", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:33:48Z", "sha": "67a4abc699804b187dff6ec6555491b007f0dd81", "kind": "group", "ref": "#23", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.6 slot-pin=1.0.6", "rc": 0}
+{"t": "2026-11-13T07:33:49Z", "sha": "e1ccc7ab3306f59a7c8abe4129a117870edf1b83", "kind": "group", "ref": "#24", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.6 slot-pin=1.0.6", "rc": 0}
+{"t": "2026-11-13T07:33:50Z", "sha": "3873629c9f2c6084465f44a93ba716e7b9f62ff1", "kind": "group", "ref": "#25", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.6 slot-pin=1.0.6", "rc": 0}
+{"t": "2026-11-13T07:33:50Z", "sha": "1e519a7168d2bd3e1cdcd6257d6a2eab71fec2bd", "kind": "group", "ref": "#23", "context": "dummy-5", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:33:50Z", "sha": "b53b5c62246c95329dff859a6ab4b1676580b842", "kind": "group", "ref": "#24", "context": "dummy-5", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:33:50Z", "sha": "b31b2ae0c5634176d08371fede89512bfe428a04", "kind": "group", "ref": "#25", "context": "dummy-5", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:33:50Z", "sha": "154bf31ae28c6bdb2a04e0216e542c0f0d079a7e", "kind": "group", "ref": "#26", "context": "dummy-5", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:33:51Z", "sha": "0ea270b356cb0fc35a725ee392cd4a2b0445ad57", "kind": "group", "ref": "#26", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.6 slot-pin=1.0.6", "rc": 0}
+{"t": "2026-11-13T07:34:09Z", "sha": "574cb73b6c5f70e00956a14f360f562b39e6147c", "kind": "group", "ref": "#22", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:34:09Z", "sha": "d52dd13d4bd84be0ae229ab5d788b4a61b96c223", "kind": "group", "ref": "#23", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:34:09Z", "sha": "0fad9550977a1ab9b0236a4a48d7db369a86c504", "kind": "group", "ref": "#24", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:34:09Z", "sha": "94223e79537c834dac492ccb5841c3c4c2b1d98d", "kind": "group", "ref": "#22", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:34:09Z", "sha": "aebff2fc9c8823ac871c92d6d6f4f0cb787c30a7", "kind": "group", "ref": "#23", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:34:09Z", "sha": "031917930a59539fa54d00d119af60fc8dd0fc1c", "kind": "group", "ref": "#24", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:34:09Z", "sha": "7be801573b2084d73ed8eef50d7048fcfe21f5aa", "kind": "group", "ref": "#25", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:34:13Z", "sha": "67a4abc699804b187dff6ec6555491b007f0dd81", "kind": "group", "ref": "#23", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:34:15Z", "sha": "e1ccc7ab3306f59a7c8abe4129a117870edf1b83", "kind": "group", "ref": "#24", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:34:15Z", "sha": "3873629c9f2c6084465f44a93ba716e7b9f62ff1", "kind": "group", "ref": "#25", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:34:15Z", "sha": "131f8de28543480db6c5a8b5d5d66194f75088be", "kind": "group", "ref": "#26", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:34:16Z", "sha": "0ea270b356cb0fc35a725ee392cd4a2b0445ad57", "kind": "group", "ref": "#26", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:34:34Z", "sha": "f250fdfcde7106d9c958160f2e6ede058ea1d2f4", "kind": "group", "ref": "#22", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:34:34Z", "sha": "ec6b3b97f5b5f69535862177ce31e933ead9084f", "kind": "group", "ref": "#23", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:34:38Z", "sha": "c92f7407e6e7cc73575bfee15ee8ae4f0d84803d", "kind": "group", "ref": "#24", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:34:38Z", "sha": "ec321aa9f7a8203790e7278914d40a7917051177", "kind": "group", "ref": "#25", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:34:48Z", "sha": "1e519a7168d2bd3e1cdcd6257d6a2eab71fec2bd", "kind": "group", "ref": "#23", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:34:48Z", "sha": "b53b5c62246c95329dff859a6ab4b1676580b842", "kind": "group", "ref": "#24", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:34:48Z", "sha": "b31b2ae0c5634176d08371fede89512bfe428a04", "kind": "group", "ref": "#25", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:34:48Z", "sha": "154bf31ae28c6bdb2a04e0216e542c0f0d079a7e", "kind": "group", "ref": "#26", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:34:53Z", "sha": "d8d2aae213a0bab2567d054fcc66207a1df1c4be", "kind": "group", "ref": "#21", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.6 slot-pin=1.0.6", "rc": 0}
+{"t": "2026-11-13T07:35:12Z", "sha": "67a4abc699804b187dff6ec6555491b007f0dd81", "kind": "group", "ref": "#23", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:35:13Z", "sha": "e1ccc7ab3306f59a7c8abe4129a117870edf1b83", "kind": "group", "ref": "#24", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:35:13Z", "sha": "3873629c9f2c6084465f44a93ba716e7b9f62ff1", "kind": "group", "ref": "#25", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:35:15Z", "sha": "bfa9ea0089774003625a2eb304bb1ba895869a2b", "kind": "pr", "ref": "#27", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.6 slot-pin=1.0.6", "rc": 0}
+{"t": "2026-11-13T07:35:16Z", "sha": "0ea270b356cb0fc35a725ee392cd4a2b0445ad57", "kind": "group", "ref": "#26", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:35:16Z", "sha": "d8d2aae213a0bab2567d054fcc66207a1df1c4be", "kind": "group", "ref": "#21", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:35:39Z", "sha": "bfa9ea0089774003625a2eb304bb1ba895869a2b", "kind": "pr", "ref": "#27", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:35:39Z", "sha": "94223e79537c834dac492ccb5841c3c4c2b1d98d", "kind": "group", "ref": "#22", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:35:39Z", "sha": "aebff2fc9c8823ac871c92d6d6f4f0cb787c30a7", "kind": "group", "ref": "#23", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:35:39Z", "sha": "031917930a59539fa54d00d119af60fc8dd0fc1c", "kind": "group", "ref": "#24", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:35:39Z", "sha": "7be801573b2084d73ed8eef50d7048fcfe21f5aa", "kind": "group", "ref": "#25", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:35:42Z", "sha": "131f8de28543480db6c5a8b5d5d66194f75088be", "kind": "group", "ref": "#26", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:36:23Z", "sha": "d8d2aae213a0bab2567d054fcc66207a1df1c4be", "kind": "group", "ref": "#21", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:36:23Z", "sha": "1e519a7168d2bd3e1cdcd6257d6a2eab71fec2bd", "kind": "group", "ref": "#23", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:36:23Z", "sha": "b53b5c62246c95329dff859a6ab4b1676580b842", "kind": "group", "ref": "#24", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:36:23Z", "sha": "b31b2ae0c5634176d08371fede89512bfe428a04", "kind": "group", "ref": "#25", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:36:23Z", "sha": "154bf31ae28c6bdb2a04e0216e542c0f0d079a7e", "kind": "group", "ref": "#26", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:36:39Z", "sha": "bfa9ea0089774003625a2eb304bb1ba895869a2b", "kind": "pr", "ref": "#27", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:36:43Z", "sha": "67a4abc699804b187dff6ec6555491b007f0dd81", "kind": "group", "ref": "#23", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:36:44Z", "sha": "e1ccc7ab3306f59a7c8abe4129a117870edf1b83", "kind": "group", "ref": "#24", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:36:44Z", "sha": "3873629c9f2c6084465f44a93ba716e7b9f62ff1", "kind": "group", "ref": "#25", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:36:45Z", "sha": "0ea270b356cb0fc35a725ee392cd4a2b0445ad57", "kind": "group", "ref": "#26", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:37:08Z", "sha": "2f8421511e0861f25b0887bc9c004e76574d12c6", "kind": "group", "ref": "#22", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.6 slot-pin=1.0.6", "rc": 0}
+{"t": "2026-11-13T07:37:32Z", "sha": "2f8421511e0861f25b0887bc9c004e76574d12c6", "kind": "group", "ref": "#22", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:37:47Z", "sha": "d8d2aae213a0bab2567d054fcc66207a1df1c4be", "kind": "group", "ref": "#21", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:38:09Z", "sha": "bfa9ea0089774003625a2eb304bb1ba895869a2b", "kind": "pr", "ref": "#27", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:38:17Z", "sha": "50d03aeddbb00fbc99a1490c7cb379e09f7973bb", "kind": "group", "ref": "#21", "context": "pin-match", "state": "failure", "desc": "chart-version=1.0.7 slot-pin=1.0.6", "rc": 0}
+{"t": "2026-11-13T07:38:19Z", "sha": "c23e549dfb8a12fef3fef969185295a61727c525", "kind": "group", "ref": "#22", "context": "pin-match", "state": "failure", "desc": "chart-version=1.0.7 slot-pin=1.0.6", "rc": 0}
+{"t": "2026-11-13T07:38:29Z", "sha": "2f8421511e0861f25b0887bc9c004e76574d12c6", "kind": "group", "ref": "#22", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:38:41Z", "sha": "50d03aeddbb00fbc99a1490c7cb379e09f7973bb", "kind": "group", "ref": "#21", "context": "dummy-5", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:38:41Z", "sha": "c23e549dfb8a12fef3fef969185295a61727c525", "kind": "group", "ref": "#22", "context": "dummy-5", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:38:49Z", "sha": "a899a8bcbddf83d9fa18a426e740e801450afe41", "kind": "group", "ref": "#22", "context": "pin-match", "state": "failure", "desc": "chart-version=1.0.7 slot-pin=1.0.6", "rc": 0}
+{"t": "2026-11-13T07:39:14Z", "sha": "a899a8bcbddf83d9fa18a426e740e801450afe41", "kind": "group", "ref": "#22", "context": "dummy-5", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:39:22Z", "sha": "7401133e9d1c458d93d0f3acdd00a41fd6c88617", "kind": "group", "ref": "#22", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.7 slot-pin=1.0.7", "rc": 0}
+{"t": "2026-11-13T07:39:40Z", "sha": "50d03aeddbb00fbc99a1490c7cb379e09f7973bb", "kind": "group", "ref": "#21", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:39:40Z", "sha": "c23e549dfb8a12fef3fef969185295a61727c525", "kind": "group", "ref": "#22", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:39:48Z", "sha": "7401133e9d1c458d93d0f3acdd00a41fd6c88617", "kind": "group", "ref": "#22", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:39:56Z", "sha": "c803d8cb6ceb3222f1500e9543d477fa40ca64c3", "kind": "group", "ref": "#21", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.7 slot-pin=1.0.7", "rc": 0}
+{"t": "2026-11-13T07:40:00Z", "sha": "2f8421511e0861f25b0887bc9c004e76574d12c6", "kind": "group", "ref": "#22", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:40:11Z", "sha": "a899a8bcbddf83d9fa18a426e740e801450afe41", "kind": "group", "ref": "#22", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:40:15Z", "sha": "9f5578ebded13e11e16b7c170ab4e365b98ce354", "kind": "group", "ref": "#27", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.7 slot-pin=1.0.7", "rc": 0}
+{"t": "2026-11-13T07:40:20Z", "sha": "c803d8cb6ceb3222f1500e9543d477fa40ca64c3", "kind": "group", "ref": "#21", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:40:38Z", "sha": "9f5578ebded13e11e16b7c170ab4e365b98ce354", "kind": "group", "ref": "#27", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:40:46Z", "sha": "7401133e9d1c458d93d0f3acdd00a41fd6c88617", "kind": "group", "ref": "#22", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:41:11Z", "sha": "50d03aeddbb00fbc99a1490c7cb379e09f7973bb", "kind": "group", "ref": "#21", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:41:11Z", "sha": "c23e549dfb8a12fef3fef969185295a61727c525", "kind": "group", "ref": "#22", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:41:19Z", "sha": "c803d8cb6ceb3222f1500e9543d477fa40ca64c3", "kind": "group", "ref": "#21", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:41:41Z", "sha": "9f5578ebded13e11e16b7c170ab4e365b98ce354", "kind": "group", "ref": "#27", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:41:41Z", "sha": "a899a8bcbddf83d9fa18a426e740e801450afe41", "kind": "group", "ref": "#22", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:42:20Z", "sha": "7401133e9d1c458d93d0f3acdd00a41fd6c88617", "kind": "group", "ref": "#22", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:42:50Z", "sha": "c803d8cb6ceb3222f1500e9543d477fa40ca64c3", "kind": "group", "ref": "#21", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:43:09Z", "sha": "9f5578ebded13e11e16b7c170ab4e365b98ce354", "kind": "group", "ref": "#27", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:45:59Z", "sha": "5a5b8fff5fe676f796adf4ef3b5c22138fcdbe9b", "kind": "pr", "ref": "#28", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.8 slot-pin=1.0.8", "rc": 0}
+{"t": "2026-11-13T07:46:04Z", "sha": "f5e444789023808abf03436f2ba0c908f9f2a5ca", "kind": "pr", "ref": "#29", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.8 slot-pin=1.0.8", "rc": 0}
+{"t": "2026-11-13T07:46:10Z", "sha": "a71ee9489f69cc8ac7cbb550333255a3e090846f", "kind": "pr", "ref": "#30", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.8 slot-pin=1.0.8", "rc": 0}
+{"t": "2026-11-13T07:46:11Z", "sha": "05462a372f243f83224027609ae19347d80f1382", "kind": "pr", "ref": "#31", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.8 slot-pin=1.0.8", "rc": 0}
+{"t": "2026-11-13T07:46:33Z", "sha": "c26c6033a252a47bc2a4d6ffbc4499dc3c2aba10", "kind": "pr", "ref": "#32", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.8 slot-pin=1.0.8", "rc": 0}
+{"t": "2026-11-13T07:46:34Z", "sha": "3a71ff953d71d00a4b33a690e7095e1638efc61d", "kind": "pr", "ref": "#33", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.8 slot-pin=1.0.8", "rc": 0}
+{"t": "2026-11-13T07:46:35Z", "sha": "2835d822bf571c3497485ec1fb450bcb151630cd", "kind": "pr", "ref": "#34", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.8 slot-pin=1.0.8", "rc": 0}
+{"t": "2026-11-13T07:46:36Z", "sha": "5a5b8fff5fe676f796adf4ef3b5c22138fcdbe9b", "kind": "pr", "ref": "#28", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:46:37Z", "sha": "23d0d48b1319873417af0548133d76d992ed0a80", "kind": "pr", "ref": "#35", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.8 slot-pin=1.0.8", "rc": 0}
+{"t": "2026-11-13T07:46:38Z", "sha": "f5e444789023808abf03436f2ba0c908f9f2a5ca", "kind": "pr", "ref": "#29", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:46:39Z", "sha": "a71ee9489f69cc8ac7cbb550333255a3e090846f", "kind": "pr", "ref": "#30", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:46:40Z", "sha": "05462a372f243f83224027609ae19347d80f1382", "kind": "pr", "ref": "#31", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:46:48Z", "sha": "c26c6033a252a47bc2a4d6ffbc4499dc3c2aba10", "kind": "pr", "ref": "#32", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:46:48Z", "sha": "3a71ff953d71d00a4b33a690e7095e1638efc61d", "kind": "pr", "ref": "#33", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:46:49Z", "sha": "2835d822bf571c3497485ec1fb450bcb151630cd", "kind": "pr", "ref": "#34", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:46:50Z", "sha": "23d0d48b1319873417af0548133d76d992ed0a80", "kind": "pr", "ref": "#35", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:47:24Z", "sha": "5a5b8fff5fe676f796adf4ef3b5c22138fcdbe9b", "kind": "pr", "ref": "#28", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:47:29Z", "sha": "f5e444789023808abf03436f2ba0c908f9f2a5ca", "kind": "pr", "ref": "#29", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:47:29Z", "sha": "a71ee9489f69cc8ac7cbb550333255a3e090846f", "kind": "pr", "ref": "#30", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:47:37Z", "sha": "05462a372f243f83224027609ae19347d80f1382", "kind": "pr", "ref": "#31", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:47:45Z", "sha": "c26c6033a252a47bc2a4d6ffbc4499dc3c2aba10", "kind": "pr", "ref": "#32", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:47:46Z", "sha": "3a71ff953d71d00a4b33a690e7095e1638efc61d", "kind": "pr", "ref": "#33", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:47:47Z", "sha": "2835d822bf571c3497485ec1fb450bcb151630cd", "kind": "pr", "ref": "#34", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:47:52Z", "sha": "23d0d48b1319873417af0548133d76d992ed0a80", "kind": "pr", "ref": "#35", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:48:53Z", "sha": "5a5b8fff5fe676f796adf4ef3b5c22138fcdbe9b", "kind": "pr", "ref": "#28", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:48:57Z", "sha": "f5e444789023808abf03436f2ba0c908f9f2a5ca", "kind": "pr", "ref": "#29", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:49:01Z", "sha": "a71ee9489f69cc8ac7cbb550333255a3e090846f", "kind": "pr", "ref": "#30", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:49:06Z", "sha": "05462a372f243f83224027609ae19347d80f1382", "kind": "pr", "ref": "#31", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:49:17Z", "sha": "c26c6033a252a47bc2a4d6ffbc4499dc3c2aba10", "kind": "pr", "ref": "#32", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:49:18Z", "sha": "3a71ff953d71d00a4b33a690e7095e1638efc61d", "kind": "pr", "ref": "#33", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:49:19Z", "sha": "2835d822bf571c3497485ec1fb450bcb151630cd", "kind": "pr", "ref": "#34", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:49:20Z", "sha": "23d0d48b1319873417af0548133d76d992ed0a80", "kind": "pr", "ref": "#35", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:49:57Z", "sha": "55d110dc198cacb44f640b5fd13f311392826147", "kind": "group", "ref": "#28", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.8 slot-pin=1.0.8", "rc": 0}
+{"t": "2026-11-13T07:50:20Z", "sha": "55d110dc198cacb44f640b5fd13f311392826147", "kind": "group", "ref": "#28", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:50:57Z", "sha": "6d4d1a5398410c264cf9a1459c5b1e669acd68d7", "kind": "group", "ref": "#29", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.8 slot-pin=1.0.8", "rc": 0}
+{"t": "2026-11-13T07:51:23Z", "sha": "55d110dc198cacb44f640b5fd13f311392826147", "kind": "group", "ref": "#28", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:51:24Z", "sha": "6d4d1a5398410c264cf9a1459c5b1e669acd68d7", "kind": "group", "ref": "#29", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:52:04Z", "sha": "dcf0da77ce3a67fd265bd75fce41880c0ed02138", "kind": "group", "ref": "#30", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.8 slot-pin=1.0.8", "rc": 0}
+{"t": "2026-11-13T07:52:23Z", "sha": "6d4d1a5398410c264cf9a1459c5b1e669acd68d7", "kind": "group", "ref": "#29", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:52:23Z", "sha": "dcf0da77ce3a67fd265bd75fce41880c0ed02138", "kind": "group", "ref": "#30", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:52:53Z", "sha": "55d110dc198cacb44f640b5fd13f311392826147", "kind": "group", "ref": "#28", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:53:01Z", "sha": "ed8e3a7ebeb54c98f794e042995d9d9d13080ce2", "kind": "group", "ref": "#31", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.8 slot-pin=1.0.8", "rc": 0}
+{"t": "2026-11-13T07:53:24Z", "sha": "ed8e3a7ebeb54c98f794e042995d9d9d13080ce2", "kind": "group", "ref": "#31", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:53:25Z", "sha": "dcf0da77ce3a67fd265bd75fce41880c0ed02138", "kind": "group", "ref": "#30", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:53:51Z", "sha": "d05a425eebd51dc2a8af0f0618d836d8d9bf52be", "kind": "group", "ref": "#32", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.8 slot-pin=1.0.8", "rc": 0}
+{"t": "2026-11-13T07:53:52Z", "sha": "6d4d1a5398410c264cf9a1459c5b1e669acd68d7", "kind": "group", "ref": "#29", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T07:54:14Z", "sha": "d05a425eebd51dc2a8af0f0618d836d8d9bf52be", "kind": "group", "ref": "#32", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:54:26Z", "sha": "ed8e3a7ebeb54c98f794e042995d9d9d13080ce2", "kind": "group", "ref": "#31", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:54:55Z", "sha": "dcf0da77ce3a67fd265bd75fce41880c0ed02138", "kind": "group", "ref": "#30", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:55:00Z", "sha": "21afef108fbb65db5a3ac12cfe2bf048df872e9f", "kind": "group", "ref": "#30", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.9 slot-pin=1.0.9", "rc": 0}
+{"t": "2026-11-13T07:55:01Z", "sha": "bf2f492379e55d078a0023ca1ac7f81ff1e8ec13", "kind": "group", "ref": "#31", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.9 slot-pin=1.0.9", "rc": 0}
+{"t": "2026-11-13T07:55:02Z", "sha": "84cdfce09c4459710d71da2cb7327c3e85a273f4", "kind": "group", "ref": "#32", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.9 slot-pin=1.0.9", "rc": 0}
+{"t": "2026-11-13T07:55:03Z", "sha": "235dd661632fec0647fa626ccebc0c0c5957d621", "kind": "group", "ref": "#33", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.9 slot-pin=1.0.9", "rc": 0}
+{"t": "2026-11-13T07:55:14Z", "sha": "d05a425eebd51dc2a8af0f0618d836d8d9bf52be", "kind": "group", "ref": "#32", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:55:22Z", "sha": "21afef108fbb65db5a3ac12cfe2bf048df872e9f", "kind": "group", "ref": "#30", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:55:23Z", "sha": "bf2f492379e55d078a0023ca1ac7f81ff1e8ec13", "kind": "group", "ref": "#31", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:55:23Z", "sha": "84cdfce09c4459710d71da2cb7327c3e85a273f4", "kind": "group", "ref": "#32", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:55:24Z", "sha": "235dd661632fec0647fa626ccebc0c0c5957d621", "kind": "group", "ref": "#33", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:55:53Z", "sha": "ed8e3a7ebeb54c98f794e042995d9d9d13080ce2", "kind": "group", "ref": "#31", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:56:01Z", "sha": "ad9406f988cfe9bcb318a48315eace9ab965e3a0", "kind": "group", "ref": "#30", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.10 slot-pin=1.0.10", "rc": 0}
+{"t": "2026-11-13T07:56:03Z", "sha": "bbab91da3541eb2144c96d797f6a7f9f96e4fd1b", "kind": "group", "ref": "#31", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.10 slot-pin=1.0.10", "rc": 0}
+{"t": "2026-11-13T07:56:04Z", "sha": "2d4ba5e0329d8cecb381d54e2d00a38cc8cd9718", "kind": "group", "ref": "#32", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.10 slot-pin=1.0.10", "rc": 0}
+{"t": "2026-11-13T07:56:05Z", "sha": "2ab9c3c5213629dfaf2468dc164e21079787361b", "kind": "group", "ref": "#33", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.10 slot-pin=1.0.10", "rc": 0}
+{"t": "2026-11-13T07:56:06Z", "sha": "d389d26f6d4988723205a1e6be827972af248a02", "kind": "group", "ref": "#34", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.10 slot-pin=1.0.10", "rc": 0}
+{"t": "2026-11-13T07:56:25Z", "sha": "21afef108fbb65db5a3ac12cfe2bf048df872e9f", "kind": "group", "ref": "#30", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:56:25Z", "sha": "bf2f492379e55d078a0023ca1ac7f81ff1e8ec13", "kind": "group", "ref": "#31", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:56:25Z", "sha": "84cdfce09c4459710d71da2cb7327c3e85a273f4", "kind": "group", "ref": "#32", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:56:25Z", "sha": "235dd661632fec0647fa626ccebc0c0c5957d621", "kind": "group", "ref": "#33", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:56:25Z", "sha": "ad9406f988cfe9bcb318a48315eace9ab965e3a0", "kind": "group", "ref": "#30", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:56:26Z", "sha": "bbab91da3541eb2144c96d797f6a7f9f96e4fd1b", "kind": "group", "ref": "#31", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:56:30Z", "sha": "2d4ba5e0329d8cecb381d54e2d00a38cc8cd9718", "kind": "group", "ref": "#32", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:56:31Z", "sha": "2ab9c3c5213629dfaf2468dc164e21079787361b", "kind": "group", "ref": "#33", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:56:32Z", "sha": "d389d26f6d4988723205a1e6be827972af248a02", "kind": "group", "ref": "#34", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:56:46Z", "sha": "d05a425eebd51dc2a8af0f0618d836d8d9bf52be", "kind": "group", "ref": "#32", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:57:05Z", "sha": "c426be3ba03ede7d0a940e07a540f22e7b6ad34f", "kind": "group", "ref": "#30", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.11 slot-pin=1.0.11", "rc": 0}
+{"t": "2026-11-13T07:57:06Z", "sha": "7da9a9efe10f03fa9f200ac582b6edd77798b88c", "kind": "group", "ref": "#31", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.11 slot-pin=1.0.11", "rc": 0}
+{"t": "2026-11-13T07:57:08Z", "sha": "dc35a48794d1f23e4eb31678fc2a0182142aa924", "kind": "group", "ref": "#32", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.11 slot-pin=1.0.11", "rc": 0}
+{"t": "2026-11-13T07:57:09Z", "sha": "f1579a444a81ed1b3080e79b6d95af05fbc19ed9", "kind": "group", "ref": "#33", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.11 slot-pin=1.0.11", "rc": 0}
+{"t": "2026-11-13T07:57:10Z", "sha": "a9f17871175d474a3c54cbfc7b4c26e45c4d65bc", "kind": "group", "ref": "#34", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.11 slot-pin=1.0.11", "rc": 0}
+{"t": "2026-11-13T07:57:24Z", "sha": "ad9406f988cfe9bcb318a48315eace9ab965e3a0", "kind": "group", "ref": "#30", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:57:24Z", "sha": "bbab91da3541eb2144c96d797f6a7f9f96e4fd1b", "kind": "group", "ref": "#31", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:57:28Z", "sha": "2d4ba5e0329d8cecb381d54e2d00a38cc8cd9718", "kind": "group", "ref": "#32", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:57:28Z", "sha": "2ab9c3c5213629dfaf2468dc164e21079787361b", "kind": "group", "ref": "#33", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:57:28Z", "sha": "d389d26f6d4988723205a1e6be827972af248a02", "kind": "group", "ref": "#34", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:57:29Z", "sha": "c426be3ba03ede7d0a940e07a540f22e7b6ad34f", "kind": "group", "ref": "#30", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:57:29Z", "sha": "7da9a9efe10f03fa9f200ac582b6edd77798b88c", "kind": "group", "ref": "#31", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:57:30Z", "sha": "dc35a48794d1f23e4eb31678fc2a0182142aa924", "kind": "group", "ref": "#32", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:57:30Z", "sha": "f1579a444a81ed1b3080e79b6d95af05fbc19ed9", "kind": "group", "ref": "#33", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:57:35Z", "sha": "a9f17871175d474a3c54cbfc7b4c26e45c4d65bc", "kind": "group", "ref": "#34", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:57:53Z", "sha": "21afef108fbb65db5a3ac12cfe2bf048df872e9f", "kind": "group", "ref": "#30", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:57:53Z", "sha": "bf2f492379e55d078a0023ca1ac7f81ff1e8ec13", "kind": "group", "ref": "#31", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:57:53Z", "sha": "84cdfce09c4459710d71da2cb7327c3e85a273f4", "kind": "group", "ref": "#32", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:57:53Z", "sha": "235dd661632fec0647fa626ccebc0c0c5957d621", "kind": "group", "ref": "#33", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:58:08Z", "sha": "74e7bdbf70d9702818f8f22163d49c62960a465c", "kind": "group", "ref": "#30", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.12 slot-pin=1.0.12", "rc": 0}
+{"t": "2026-11-13T07:58:09Z", "sha": "9ae21d9f2c785b884c8e06fb05eb83f0e6e1a402", "kind": "group", "ref": "#31", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.12 slot-pin=1.0.12", "rc": 0}
+{"t": "2026-11-13T07:58:10Z", "sha": "b44c4c4f4ccaf4b06172a9f38059a791bd520f46", "kind": "group", "ref": "#32", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.12 slot-pin=1.0.12", "rc": 0}
+{"t": "2026-11-13T07:58:12Z", "sha": "665415981f24fe1769c93a78ddc2d92571266ddc", "kind": "group", "ref": "#33", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.12 slot-pin=1.0.12", "rc": 0}
+{"t": "2026-11-13T07:58:13Z", "sha": "e041ec250badb6ceb71340cd5cbfa8cb91a9b68b", "kind": "group", "ref": "#34", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.12 slot-pin=1.0.12", "rc": 0}
+{"t": "2026-11-13T07:58:27Z", "sha": "c426be3ba03ede7d0a940e07a540f22e7b6ad34f", "kind": "group", "ref": "#30", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:58:27Z", "sha": "7da9a9efe10f03fa9f200ac582b6edd77798b88c", "kind": "group", "ref": "#31", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:58:27Z", "sha": "dc35a48794d1f23e4eb31678fc2a0182142aa924", "kind": "group", "ref": "#32", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:58:27Z", "sha": "f1579a444a81ed1b3080e79b6d95af05fbc19ed9", "kind": "group", "ref": "#33", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:58:31Z", "sha": "74e7bdbf70d9702818f8f22163d49c62960a465c", "kind": "group", "ref": "#30", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:58:32Z", "sha": "9ae21d9f2c785b884c8e06fb05eb83f0e6e1a402", "kind": "group", "ref": "#31", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:58:33Z", "sha": "b44c4c4f4ccaf4b06172a9f38059a791bd520f46", "kind": "group", "ref": "#32", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:58:33Z", "sha": "665415981f24fe1769c93a78ddc2d92571266ddc", "kind": "group", "ref": "#33", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:58:33Z", "sha": "a9f17871175d474a3c54cbfc7b4c26e45c4d65bc", "kind": "group", "ref": "#34", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:58:37Z", "sha": "e041ec250badb6ceb71340cd5cbfa8cb91a9b68b", "kind": "group", "ref": "#34", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T07:58:55Z", "sha": "ad9406f988cfe9bcb318a48315eace9ab965e3a0", "kind": "group", "ref": "#30", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:58:55Z", "sha": "bbab91da3541eb2144c96d797f6a7f9f96e4fd1b", "kind": "group", "ref": "#31", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:58:59Z", "sha": "2d4ba5e0329d8cecb381d54e2d00a38cc8cd9718", "kind": "group", "ref": "#32", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:58:59Z", "sha": "2ab9c3c5213629dfaf2468dc164e21079787361b", "kind": "group", "ref": "#33", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:58:59Z", "sha": "d389d26f6d4988723205a1e6be827972af248a02", "kind": "group", "ref": "#34", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:59:32Z", "sha": "74e7bdbf70d9702818f8f22163d49c62960a465c", "kind": "group", "ref": "#30", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:59:33Z", "sha": "9ae21d9f2c785b884c8e06fb05eb83f0e6e1a402", "kind": "group", "ref": "#31", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:59:34Z", "sha": "b44c4c4f4ccaf4b06172a9f38059a791bd520f46", "kind": "group", "ref": "#32", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:59:34Z", "sha": "665415981f24fe1769c93a78ddc2d92571266ddc", "kind": "group", "ref": "#33", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:59:35Z", "sha": "e041ec250badb6ceb71340cd5cbfa8cb91a9b68b", "kind": "group", "ref": "#34", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T07:59:58Z", "sha": "c426be3ba03ede7d0a940e07a540f22e7b6ad34f", "kind": "group", "ref": "#30", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:59:58Z", "sha": "7da9a9efe10f03fa9f200ac582b6edd77798b88c", "kind": "group", "ref": "#31", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:59:58Z", "sha": "dc35a48794d1f23e4eb31678fc2a0182142aa924", "kind": "group", "ref": "#32", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T07:59:58Z", "sha": "f1579a444a81ed1b3080e79b6d95af05fbc19ed9", "kind": "group", "ref": "#33", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T08:00:02Z", "sha": "a9f17871175d474a3c54cbfc7b4c26e45c4d65bc", "kind": "group", "ref": "#34", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T08:01:02Z", "sha": "74e7bdbf70d9702818f8f22163d49c62960a465c", "kind": "group", "ref": "#30", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T08:01:03Z", "sha": "9ae21d9f2c785b884c8e06fb05eb83f0e6e1a402", "kind": "group", "ref": "#31", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T08:01:04Z", "sha": "b44c4c4f4ccaf4b06172a9f38059a791bd520f46", "kind": "group", "ref": "#32", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T08:01:04Z", "sha": "665415981f24fe1769c93a78ddc2d92571266ddc", "kind": "group", "ref": "#33", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T08:01:05Z", "sha": "e041ec250badb6ceb71340cd5cbfa8cb91a9b68b", "kind": "group", "ref": "#34", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}
+{"t": "2026-11-13T08:01:46Z", "sha": "b39dd803e23d16e2bc2c5475fe13cc9e411a954b", "kind": "group", "ref": "#35", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.12 slot-pin=1.0.12", "rc": 0}
+{"t": "2026-11-13T08:02:12Z", "sha": "b39dd803e23d16e2bc2c5475fe13cc9e411a954b", "kind": "group", "ref": "#35", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T08:02:52Z", "sha": "1a53b38ea7ebd6f1ee8060e73128d25451254372", "kind": "group", "ref": "#35", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.13 slot-pin=1.0.13", "rc": 0}
+{"t": "2026-11-13T08:03:09Z", "sha": "b39dd803e23d16e2bc2c5475fe13cc9e411a954b", "kind": "group", "ref": "#35", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T08:03:17Z", "sha": "1a53b38ea7ebd6f1ee8060e73128d25451254372", "kind": "group", "ref": "#35", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T08:03:57Z", "sha": "268952489d01278f98adb1fd7627dace44a84d48", "kind": "group", "ref": "#35", "context": "pin-match", "state": "success", "desc": "chart-version=1.0.14 slot-pin=1.0.14", "rc": 0}
+{"t": "2026-11-13T08:04:15Z", "sha": "1a53b38ea7ebd6f1ee8060e73128d25451254372", "kind": "group", "ref": "#35", "context": "dummy-15", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T08:04:23Z", "sha": "268952489d01278f98adb1fd7627dace44a84d48", "kind": "group", "ref": "#35", "context": "dummy-5", "state": "success", "desc": "waited 30 s", "rc": 0}
+{"t": "2026-11-13T08:04:38Z", "sha": "b39dd803e23d16e2bc2c5475fe13cc9e411a954b", "kind": "group", "ref": "#35", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T08:05:21Z", "sha": "268952489d01278f98adb1fd7627dace44a84d48", "kind": "group", "ref": "#35", "context": "dummy-15", "state": "success", "desc": "waited 90 s", "rc": 0}
+{"t": "2026-11-13T08:05:46Z", "sha": "1a53b38ea7ebd6f1ee8060e73128d25451254372", "kind": "group", "ref": "#35", "context": "dummy-30", "state": "skipped", "desc": "group no longer in the queue"}
+{"t": "2026-11-13T08:06:51Z", "sha": "268952489d01278f98adb1fd7627dace44a84d48", "kind": "group", "ref": "#35", "context": "dummy-30", "state": "success", "desc": "waited 180 s", "rc": 0}

@@ -1,0 +1,105 @@
+2026-11-13T07:25:10Z start at 590f44405b5d65f40fde84f45bd62209fdaf9c33
+fatal: unable to access 'https://github.com/openova-io/north-star-merge-queue-lab.git/': Could not resolve host: github.com
+Traceback (most recent call last):
+  File "/home/openova/repos/tw-FND-001/lab/scripts/reactive-writer.py", line 40, in <module>
+    sha, _ = main_head()
+  File "/home/openova/repos/tw-FND-001/lab/scripts/reactive-writer.py", line 25, in main_head
+    subprocess.run(["git", "fetch", "-q", remote, "main"], check=True)
+  File "/usr/lib/python3.10/subprocess.py", line 524, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'fetch', '-q', 'origin', 'main']' returned non-zero exit status 128.
+2026-11-13T07:26:50Z start at 590f44405b5d65f40fde84f45bd62209fdaf9c33
+2026-11-13T07:29:08Z queue merge seen at 41f40984bb99: ['lab: d-1 (#19)']
+2026-11-13T07:30:12Z push rc=0 sha=d0367c8cda4ea834c705eda8a0036c2351837d31 subject=chore(release): bump chart version to 1.0.5 [release-writer]
+  | remote: Bypassed rule violations for refs/heads/main:        
+  | remote: 
+  | remote: - Changes must be made through the merge queue        
+  | remote: 
+  | remote: - 4 of 4 required status checks are expected.        
+  | remote: 
+  | remote: - Changes must be made through a pull request.        
+  | remote: 
+  | To https://github.com/openova-io/north-star-merge-queue-lab.git
+  |    589a0d2..d0367c8  HEAD -> main
+2026-11-13T07:31:14Z push rc=0 sha=cd34a5ad06f402b02fc7531184daa36bc11933a0 subject=chore(release): pin slot to 1.0.5 [release-writer]
+  | remote: Bypassed rule violations for refs/heads/main:        
+  | remote: 
+  | remote: - Changes must be made through the merge queue        
+  | remote: 
+  | remote: - 4 of 4 required status checks are expected.        
+  | remote: 
+  | remote: - Changes must be made through a pull request.        
+  | remote: 
+  | To https://github.com/openova-io/north-star-merge-queue-lab.git
+  |    d0367c8..cd34a5a  HEAD -> main
+2026-11-13T07:31:15Z queue merge seen at cd34a5ad06f4: ['lab: d-2 (#20)']
+2026-11-13T07:32:18Z push rc=0 sha=b74692689d9981a109b2c8ce9def2a585c28b0f0 subject=chore(release): bump chart version to 1.0.6 [release-writer]
+  | remote: Bypassed rule violations for refs/heads/main:        
+  | remote: 
+  | remote: - Changes must be made through the merge queue        
+  | remote: 
+  | remote: - 4 of 4 required status checks are expected.        
+  | remote: 
+  | remote: - Changes must be made through a pull request.        
+  | remote: 
+  | To https://github.com/openova-io/north-star-merge-queue-lab.git
+  |    cd34a5a..b746926  HEAD -> main
+2026-11-13T07:33:20Z push rc=0 sha=da3e3c97ed6b63cd73278e95de98138282d020a2 subject=chore(release): pin slot to 1.0.6 [release-writer]
+  | remote: Bypassed rule violations for refs/heads/main:        
+  | remote: 
+  | remote: - Changes must be made through the merge queue        
+  | remote: 
+  | remote: - 4 of 4 required status checks are expected.        
+  | remote: 
+  | remote: - Changes must be made through a pull request.        
+  | remote: 
+  | To https://github.com/openova-io/north-star-merge-queue-lab.git
+  |    b746926..da3e3c9  HEAD -> main
+2026-11-13T07:36:59Z queue merge seen at 0ea270b356cb: ['lab: d-8 (#26)', 'lab: d-7 (#25)', 'lab: d-6 (#24)', 'lab: d-5 (#23)']
+2026-11-13T07:38:02Z push rc=0 sha=599670b42525d72a76a98348750335143561651c subject=chore(release): bump chart version to 1.0.7 [release-writer]
+  | remote: Bypassed rule violations for refs/heads/main:        
+  | remote: 
+  | remote: - Changes must be made through the merge queue        
+  | remote: 
+  | remote: - 4 of 4 required status checks are expected.        
+  | remote: 
+  | remote: - Changes must be made through a pull request.        
+  | remote: 
+  | To https://github.com/openova-io/north-star-merge-queue-lab.git
+  |    0ea270b..599670b  HEAD -> main
+2026-11-13T07:39:05Z push rc=0 sha=8c736170ac4da60f38903c2286e04ca4d6e0a6b2 subject=chore(release): pin slot to 1.0.7 [release-writer]
+  | remote: Bypassed rule violations for refs/heads/main:        
+  | remote: 
+  | remote: - Changes must be made through the merge queue        
+  | remote: 
+  | remote: - 4 of 4 required status checks are expected.        
+  | remote: 
+  | remote: - Changes must be made through a pull request.        
+  | remote: 
+  | To https://github.com/openova-io/north-star-merge-queue-lab.git
+  |    599670b..8c73617  HEAD -> main
+2026-11-13T07:42:57Z queue merge seen at c803d8cb6ceb: ['lab: d-3 (#21)', 'lab: d-4 (#22)']
+2026-11-13T07:44:01Z push rc=0 sha=241d321c5ea81b66aba5b1f8d7edd58862f9183f subject=chore(release): bump chart version to 1.0.8 [release-writer]
+  | remote: Bypassed rule violations for refs/heads/main:        
+  | remote: 
+  | remote: - Changes must be made through the merge queue        
+  | remote: 
+  | remote: - 4 of 4 required status checks are expected.        
+  | remote: 
+  | remote: - Changes must be made through a pull request.        
+  | remote: 
+  | To https://github.com/openova-io/north-star-merge-queue-lab.git
+  |    9f5578e..241d321  HEAD -> main
+2026-11-13T07:45:03Z push rc=0 sha=3f9f50df120aaf7c01c853c767450e552b44b5b9 subject=chore(release): pin slot to 1.0.8 [release-writer]
+  | remote: Bypassed rule violations for refs/heads/main:        
+  | remote: 
+  | remote: - Changes must be made through the merge queue        
+  | remote: 
+  | remote: - 4 of 4 required status checks are expected.        
+  | remote: 
+  | remote: - Changes must be made through a pull request.        
+  | remote: 
+  | To https://github.com/openova-io/north-star-merge-queue-lab.git
+  |    241d321..3f9f50d  HEAD -> main
+2026-11-13T07:45:04Z queue merge seen at 3f9f50df120a: ['lab: w-1 (#27)']
+2026-11-13T07:45:06Z stop
