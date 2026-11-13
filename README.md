@@ -13,13 +13,12 @@ queue?
 |---|---|
 | `release/chart-version`, `release/slot-pin` | Two version files. The release writer moves them. A consistent `main` has the same value in both. |
 | `work/` | Files that the lab pull requests add. They never touch `release/`. |
-| `.github/workflows/dummy-5.yaml`, `dummy-15.yaml`, `dummy-30.yaml` | Dummy checks that only wait. They stand for workflows of 5, 15 and 30 minutes, scaled down ten times to 30, 90 and 180 seconds. They run on `pull_request` and `merge_group`. |
-| `.github/workflows/pin-match.yaml` | Fails when the two version files differ. Runs on `pull_request`, `merge_group` and pushes to `main`. |
-| `.github/workflows/push-probe.yaml` | Records who pushed to `main`. It shows whether a push starts the workflows that listen for pushes. |
+| `scripts/fake-ci.py` | A CI stand-in that needs no runner. It posts the required commit statuses `dummy-5`, `dummy-15` and `dummy-30` after 30, 90 and 180 seconds (they stand for workflows of 5, 15 and 30 minutes, scaled down ten times), and `pin-match`, which fails when the two version files differ in the tested tree. It does this for every pull-request head and every merge-group head, and it records the queue and `main` every 3 seconds. The organisation's hosted runners were saturated, so Actions jobs would have measured runner waits, not the queue. |
+| `.github/workflows/probe.yaml` | One small Actions job on `pull_request`, `merge_group` and pushes to `main`. It records the event, who pushed, the tested commit message and the two version files. It shows whether Actions runs on the merge-group commit and whether a push starts the workflows that listen for pushes. |
 | `.github/workflows/writer-gha.yaml` | Tries a release-writer push with the workflow's own token. |
 | `scripts/release-writer.sh` | Plays the release writer: one commit that moves both files, or two commits (bump, then pin). |
 | `scripts/reactive-writer.py` | Calls the release writer after every merge from the queue, as a deploy pipeline would. |
-| `scripts/record.py` | Polls the merge queue and `main` and writes what changes. |
+| `scripts/open-prs.sh` | Opens the small lab pull requests of one run. |
 
 The rulesets on `main` and `rc/**` are set through the REST API. The results
 are in `evidence/` once the run ends.

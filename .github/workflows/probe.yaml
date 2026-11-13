@@ -1,0 +1,25 @@
+name: probe
+on:
+  pull_request:
+  merge_group:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  probe:
+    name: probe
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: record the event and compare the two version files
+        run: |
+          echo "event=${{ github.event_name }} sha=${{ github.sha }} ref=${{ github.ref }}"
+          echo "actor=${{ github.actor }} triggering_actor=${{ github.triggering_actor }}"
+          echo "pusher=${{ github.event.pusher.name }} sender=${{ github.event.sender.login }} sender_type=${{ github.event.sender.type }}"
+          echo "merge_group head=${{ github.event.merge_group.head_sha }} base=${{ github.event.merge_group.base_sha }}"
+          echo "--- message of the tested commit"
+          git log -1 --format=%B
+          v=$(cat release/chart-version); p=$(cat release/slot-pin)
+          echo "chart-version=$v slot-pin=$p"
+          test "$v" = "$p"

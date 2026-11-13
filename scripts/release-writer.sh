@@ -39,15 +39,21 @@ push() {
   set -e
   echo "$(ts) push rc=$rc sha=$(git rev-parse HEAD) subject=$(git log -1 --format=%s)"
   echo "$out" | sed 's/^/  | /'
+  last_out="$out"
   return $rc
 }
 
-# Retry when the queue moved main between our fetch and our push.
+# Retry only when the queue moved main between our fetch and our push.
+# A refusal by a rule is final.
 with_retry() {
   local i
   for i in 1 2 3; do
+    last_out=""
     if "$@"; then return 0; fi
-    echo "$(ts) retry $i after a refused push"
+    case "$last_out" in
+      *"fetch first"*|*"non-fast-forward"*|*"stale info"*) echo "$(ts) retry $i: main moved under us" ;;
+      *) return 1 ;;
+    esac
   done
   return 1
 }
